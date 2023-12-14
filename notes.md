@@ -29,7 +29,7 @@ title: Notes
 <div><img src="/images/profile.jpg"></div>
 </div>
 
-<div class="second">
+<div class="fourth">
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
