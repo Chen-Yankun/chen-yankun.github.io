@@ -28,16 +28,6 @@ title: Notes
 <div><img src="/images/profile.JPG"></div>
 <div><img src="/images/profile.JPG"></div>
 </div>
-.box div {
-    width: 33.33%;
-    height: 33.33%;
-    float: left;
-}
-.box {
-    width: 300px;
-    height: 300px;
-}
-
 
 
 <br>
