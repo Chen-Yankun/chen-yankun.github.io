@@ -44,7 +44,7 @@ title: Notes
 </div>
 
 <br>
-<div class="fourth">
+<div class="third">
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
