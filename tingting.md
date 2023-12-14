@@ -6,7 +6,7 @@ title: Tingting
 
 ## 坤坤和婷婷去北京游玩
 
-<img src="/images/kktt1.JPG">
+<img src="/images/kktt1.jpg">
 
 
 
