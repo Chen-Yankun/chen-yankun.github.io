@@ -12,7 +12,8 @@ title: Blogs
 
 ### 2023
 
-- [test111](/blogs/2023/12/)<br>
+- [test2](/blogs/1214)<br>
+- [test111](/blogs/2023/12/1214)<br>
 - [21岁，何妨吟啸且徐行](/blogs/21yrs)<br>
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
 - [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
