@@ -41,12 +41,12 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  #- title: Awards
+    #url: /awards/
   - title: Tingting
     url: /tingting/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+    #url: /hobbies/
   - title: Notes
     url: /notes/
   - title: Blogs
