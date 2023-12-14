@@ -8,11 +8,11 @@ title: Blogs
 
 ### 2024
 
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+- [24Fall，英国硕士项目申请实录](/blogs/24fall/)
 
 ### 2023
 
-- [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
+- [21岁，何妨吟啸且徐行](/blogs/21yrs)<br>
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
 - [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
