@@ -6,8 +6,8 @@ url: https://chen-yankun.github.io
 
 # Owner/author information
 owner:
-  name: Yan-kun Chen
-  avatar: profile.png
+  name: Yan-kun Chen </br> 陈彦坤
+  avatar: profile.jpg
   bio: Two roads diverged in woods, I took the one less traveled by.
   email: ketzap@qq.com
   cv: https://www.baidu.com/
@@ -36,7 +36,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: 彦坤
+  - title: About me
     url: /
   - title: Publications
     url: /publications/
