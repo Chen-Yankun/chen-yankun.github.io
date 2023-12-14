@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://chen-yankun.github.io/shuaibi.jpg" class="floatpic" width="588" height="784">
+<img src="images/shuaibi.jpg" class="floatpic" width="588" height="784">
 
 Here is **Yan-kun Chen (陈彦坤)**.
 
