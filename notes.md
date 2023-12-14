@@ -31,5 +31,11 @@ title: Notes
 <div><img src="/images/profile.jpg"></div>
 </div>
 
+<div class="second">
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+</div>
 
 <br>
