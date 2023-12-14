@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [24Fall，英国硕士项目申请实录](/blogs/24fall/)
+- [2024](/blogs/24fall/)
 
 ### 2023
 
