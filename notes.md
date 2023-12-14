@@ -18,11 +18,11 @@ title: Notes
 ---
 
 <div class="box">
-<div><img src="/images/profile.JPG"></div>
-<div><img src="/images/profile.JPG"></div>
-<div><img src="/images/profile.JPG"></div>
-<div><img src="/images/profile.JPG"></div>
-<div><img src="/images/profile.JPG"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
+<div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.JPG"></div>
 <div><img src="/images/profile.JPG"></div>
 <div><img src="/images/profile.JPG"></div>
