@@ -14,5 +14,27 @@ title: Notes
         - 拍照
         - 和婷婷一起
     - 学术
+<div class="box">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+.box div {
+    width: 33.33%;
+    height: 33.33%;
+    float: left;
+}
+.box {
+    width: 300px;
+    height: 300px;
+}
+
+
 
 <br>
