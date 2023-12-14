@@ -5,9 +5,7 @@ title: Notes
 ---
 
 ## Paper Notes
-<body background="/images/profile.jpg">
 
-</body>
 - 个人网站要添加什么东西
     - 个人对外的资料
     - 画作，表情包，形成系统
