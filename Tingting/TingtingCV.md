@@ -83,6 +83,21 @@ title: 刘婷婷简历
 
 ## 教育背景：
 
+**Hunan University of Chinese Medicine (HUCM)**
+*PhD. In Chinese Medicine*
+*Sep. 2020 – Jun. 2023*
+> Current GPA: 3.81/4.00 (Top 8%), Average Score: 88.38
+
+**International Center for Chemical and Biological Sciences (ICCBS)**
+*University of Karachi*
+*Bachelor of Engineering in Automation (Taught in English)*
+*Oct. 2022 – Mar. 2023*
+> Current GPA: 3.81/4.00 (Top 8%), Average Score: 88.38
+
+**Hunan University of Chinese Medicine (HUCM)**
+*Bachelor of Science in Robotics and Intelligent Devices (Combined Degrees)*
+*Sep. 2015 – Jun. 2018*
+
 - **湖南中医药大学湘杏学院**
   - 专业: 中医学
   - 学历: 本科
