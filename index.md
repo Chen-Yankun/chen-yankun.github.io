@@ -8,7 +8,9 @@ layout: page
 
 Here is **Yan-kun Chen (陈彦坤)**.
 
-I am 
+I specialize in Traditional Chinese Medicine, with a focus on new drug development, traditional herbal medicine research, and natural products. My passion lies in exploring the rich world of Chinese herbal remedies and contributing to the development of innovative medications.  
+
+Outside of my professional pursuits, I have a keen interest in AI art, finding joy in the intersection of technology and creativity. When I'm not immersed in the world of medicine and research, you can often find me capturing moments through photography or indulging my wanderlust with travel adventures. I believe in the power of combining ancient wisdom with modern knowledge to create a healthier and more vibrant world.  
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ketzap@qq.com*
 
