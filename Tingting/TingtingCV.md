@@ -4,16 +4,14 @@ permalink: /Tingting/TingtingCV/index.html
 title: 刘婷婷简历 
 ---
 
-## Published Papers
-
 # 刘婷婷
 
 - **出生年月:** 1996.07
 - **学历:** 博士
 
 **联系方式:**
-- **电话:**
-- **邮箱:** 645099283@qq.com
+- **电话:** 1897533560
+- **邮箱:** 64509928@qq.com
 
 ## 发表论文
 
