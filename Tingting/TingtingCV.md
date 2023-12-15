@@ -13,6 +13,22 @@ title: 刘婷婷简历
 - **电话:** 1897533560
 - **邮箱:** 64509928@qq.com
 
+## 教育背景：
+
+- **湖南中医药大学**
+*PhD. In Chinese Medicine*
+*Sep. 2020 – Jun. 2023*
+
+
+- **湖南中医药大学**
+*MD. In Chinese Medicine*
+*Sep. 2016 – Jun. 2019*
+
+
+- **湖南中医药大学**
+*Bachelor of Chinese Medicine*
+*Sep. 2011 – Jun. 2016*
+
 ## 发表论文
 {:start="1"}
 1. **Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
@@ -79,23 +95,6 @@ title: 刘婷婷简历
 - **疫情下中医的哲学审视**
    - 编委
    - 中国古籍出版社
-
-
-## 教育背景：
-
-- **湖南中医药大学**
-*PhD. In Chinese Medicine*
-*Sep. 2020 – Jun. 2023*
-
-
-- **湖南中医药大学**
-*MD. In Chinese Medicine*
-*Sep. 2016 – Jun. 2019*
-
-
-- **湖南中医药大学**
-*Bachelor of Chinese Medicine*
-*Sep. 2011 – Jun. 2016*
 
 
 ## 研究方向：
