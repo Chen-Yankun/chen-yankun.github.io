@@ -26,15 +26,15 @@ title: Notes
 
 **点击网站后弹出新窗口：**
 <a href="https://www.baidu.com/" target="_blank">这里写要点击的内容</a>
-```<a href="https://www.example.com/" target="_blank">这里写要点击的内容</a>```
+`<a href="https://www.example.com/" target="_blank">这里写要点击的内容</a>`
 <a href="https://这里放网址.点击内容就跳转到新窗口网址/" target="_blank">这里写要点击的内容</a>
 
 
 #### 页内跳转：
 首先设置
-```<p id="jump">跳转到的地方</p>```
+`<p id="jump">跳转到的地方</p>`
 再设置
-```[点击跳转](#jump)```
+`[点击跳转](#jump)`
 点击上面的“点击跳转”，就会跳转到“跳转到的地方”了。
 
 #### 设置文字字体
