@@ -16,12 +16,18 @@ title: Notes
     - 学术内容
 
 ---
-markdown网页的一些实用语法：
+### markdown网页的一些实用语法：
   
 回车：&lt;br&gt;  
 
-<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式</span>  
-```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式</span>```
+<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>```
+<br>
+<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
+<br>
+<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
 <br>
 外置网页的超链接：  
  ```[这里写要点击的内容](https://这里放网址，点击内容就跳转到网址/)```<br>
