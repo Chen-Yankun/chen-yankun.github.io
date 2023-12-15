@@ -18,18 +18,7 @@ title: Notes
 ---
 ### markdown网页的一些实用语法：
 
-回车：&lt;br&gt;  
-
-<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>  
-```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>```
-<br>
-<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
-```<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
-<br>
-<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
-```<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
-<br>
-
+回车：&lt;br&gt;
 #### 外置网页的超链接：
 
 [这里写要点击的内容](https://www.baidu.com/)
@@ -47,6 +36,18 @@ title: Notes
 再设置
 ```[点击跳转](#jump)```
 点击上面的“点击跳转”，就会跳转到“跳转到的地方”了。
+
+#### 设置文字字体
+<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>```
+<br>
+<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: 'Times New Roman'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
+<br>
+<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
+```<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
+<br>
+
 
 #### 图片
 
