@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-<h2 id="dingbu">Paper Notes</h2>
+<h1 id="dingbu">Paper Notes</h1>
 
 - 个人网站要添加什么东西
     - 个人对外的资料
@@ -16,10 +16,10 @@ title: Notes
     - 学术内容
 
 ---
-### markdown网页的一些实用语法：
+## markdown网页的一些实用语法：
 
 回车：&lt;br&gt;
-#### 外置网页的超链接：
+### 外置网页的超链接：
 
 [这里写要点击的内容](https://www.baidu.com/)
 > [这里写要点击的内容](https://www.example.com/)
@@ -30,14 +30,14 @@ title: Notes
 <a href="https://这里放网址.点击内容就跳转到新窗口网址/" target="_blank">这里写要点击的内容</a>
 
 
-#### 页内跳转：
+### 页内跳转：
 首先设置
 `<p id="jump">跳转到的地方</p>`
 再设置
 `[点击跳转](#jump)`
 点击上面的“点击跳转”，就会跳转到“跳转到的地方”了。
 
-#### 设置文字字体
+### 设置文字字体
 <span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>  
 ```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式αβγδ</span>```
 <br>
@@ -49,17 +49,17 @@ title: Notes
 <br>
 
 
-#### 图片
+### 图片
 
 在Jekyll中，你可以使用Markdown语法结合HTML标签来控制照片的排列和大小。以下是一些示例：
-##### 控制照片排列
-###### 水平排列
+#### 控制照片排列
+##### 水平排列
 
 ```markdown ![Image 1](/path/to/image1.jpg) ![Image 2](/path/to/image2.jpg)```
 
 这将在网页上水平排列两张图片。
 
-###### 垂直排列
+##### 垂直排列
 ```markdown
 ![Image 1](/path/to/image1.jpg)
 ![Image 2](/path/to/image2.jpg)
@@ -67,9 +67,9 @@ title: Notes
 
 这将在网页上垂直排列两张图片。
 
-##### 控制照片大小
+#### 控制照片大小
 
-###### 使用HTML的`<img>`标签
+##### 使用HTML的`<img>`标签
 
 ```markdown
 <img src="/path/to/image.jpg" alt="Image" width="300" height="200">
@@ -77,7 +77,7 @@ title: Notes
 
 上述示例将显示一张宽度为300像素、高度为200像素的图片。你可以根据需要调整 `width` 和 `height` 的值。
 
-##### 图片居中显示
+#### 图片居中显示
 
 ```markdown
 <p align="center">
@@ -87,7 +87,7 @@ title: Notes
 
 这将使图片在网页上水平居中显示。
 
-##### 图片靠左显示
+#### 图片靠左显示
 
 ```markdown
 <img src="/path/to/image.jpg" alt="Image" style="float: left; margin-right: 10px;">
@@ -95,7 +95,7 @@ title: Notes
 
 这将使图片靠左显示，并在图片右侧留有一定的空白（10像素），使文字不会紧贴在图片边缘。
 
-##### 图片靠右显示
+#### 图片靠右显示
 
 ```markdown
 <img src="/path/to/image.jpg" alt="Image" style="float: right; margin-left: 10px;">
@@ -103,7 +103,7 @@ title: Notes
 
 这将使图片靠右显示，并在图片左侧留有一定的空白，避免文字与图片重叠。
 
-##### 图片浮动于文字之上
+#### 图片浮动于文字之上
 
 ```markdown
 <div style="position: relative;">
