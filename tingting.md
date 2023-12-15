@@ -4,6 +4,7 @@ permalink: /tingting/index.html
 title: Tingting
 ---
 - [刘婷婷的简历](/Tingting/TingtingCV/)
+- [刘婷婷的简历(*English version*)](/Tingting/TingtingCVen/)
 ## Chinese Blogs
 
 ### 2023
