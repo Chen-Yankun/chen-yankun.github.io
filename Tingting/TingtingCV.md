@@ -5,7 +5,7 @@ title: 刘婷婷简历
 ---
 
 # 刘婷婷
-
+<img src="/images/tingt.jpg" class="floatpic" width="588" height="784">
 - **出生年月:** 1996.07
 - **学历:** 博士
 
