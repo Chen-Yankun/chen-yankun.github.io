@@ -17,9 +17,9 @@ title: 刘婷婷简历
 
 ## 发表论文
 
-1. **Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
+1.**Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
 
-2. Chen YK, **Liu TT**, Teia FKF, Xie MZ. _**Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.**_ *Front Endocrinol (Lausanne).* 2023;14:1218880. Published 2023 Aug 1. doi:[10.3389/fendo.2023.1218880](https://doi.org/10.3389/fendo.2023.1218880).
+2.Chen YK, **Liu TT**, Teia FKF, Xie MZ. _**Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.**_ *Front Endocrinol (Lausanne).* 2023;14:1218880. Published 2023 Aug 1. doi:[10.3389/fendo.2023.1218880](https://doi.org/10.3389/fendo.2023.1218880).
 
 3. 张思淼,彭清华,赵晓威,等. **三棱莪术颗粒联合西药治疗肝硬化腹水血瘀水停证的疗效观察**[J]. *湖南中医药大学学报*, 2022, 42(11):1932-1937. DOI:10.3969/j.issn.1674-070X.2022.11.026.
 
