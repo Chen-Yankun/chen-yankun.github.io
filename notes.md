@@ -26,6 +26,14 @@ markdown网页的一些实用语法：
 <a href="https://这里放网址，点击内容就跳转到新窗口网址/" target="_blank">这里写要点击的内容</a>
 
 <br>
+页内跳转：首先设置
+```<p id="jump">跳转到的地方</p>```
+
+
+
+
+
+<br>
 <div class="third">
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
