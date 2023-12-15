@@ -15,12 +15,12 @@ title: 刘婷婷简历
 
 ## 教育背景：
 
-- **湖南中医药大学**
+- **湖南中医药大学·中医学院**
 *PhD. In Chinese Medicine*
 *Sep. 2020 – Jun. 2023*
 
 
-- **湖南中医药大学**
+- **湖南中医药大学·中医学院**
 *MD. In Chinese Medicine*
 *Sep. 2016 – Jun. 2019*
 
