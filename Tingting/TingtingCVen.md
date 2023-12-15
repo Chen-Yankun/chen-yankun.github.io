@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Tingting/TingtingCV/index.html
+permalink: /Tingting/TingtingCVen/index.html
 title: Liu Tingting's CV
 ---
 
