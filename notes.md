@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-<h2 id="dingbu">Paper Notes</h>
+<h2 id="dingbu">Paper Notes</h2>
 
 - 个人网站要添加什么东西
     - 个人对外的资料
