@@ -21,9 +21,8 @@ title: Notes
 回车：&lt;br&gt;
 ### 外置网页的超链接：
 
-[这里写要点击的内容](https://www.baidu.com/)
-`[这里写要点击的内容](https://www.example.com/)`
-
+[这里写要点击的内容](https://www.baidu.com/)  
+`[这里写要点击的内容](https://www.example.com/)`  
 **点击网站后弹出新窗口：**
 <a href="https://www.baidu.com/" target="_blank">这里写要点击的内容</a>
 `<a href="https://www.example.com/" target="_blank">这里写要点击的内容</a>`
