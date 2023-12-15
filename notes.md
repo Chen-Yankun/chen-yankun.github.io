@@ -16,14 +16,17 @@ title: Notes
     - 学术内容
 
 ---
-markdown网页的一些实用语法：  
+<a id="dingbu">markdown网页的一些实用语法：</a>
+  
 回车：&lt;br&gt;  
-<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式</span>  
 
+<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式</span>  
+```<span style="font-family: 'Arial'; font-size: 18px; color: #3498db;">自定义字体样式</span>```
+<br>
 外置网页的超链接：  
- [这里写要点击的内容](https://这里放网址，点击内容就跳转到网址/)<br>
+ ```[这里写要点击的内容](https://这里放网址，点击内容就跳转到网址/)```<br>
 点击网站后弹出新窗口：
-<a href="https://这里放网址，点击内容就跳转到新窗口网址/" target="_blank">这里写要点击的内容</a>
+```<a href="https://这里放网址，点击内容就跳转到新窗口网址/" target="_blank">这里写要点击的内容</a>```
 
 <br>
 页内跳转：首先设置
@@ -80,3 +83,4 @@ markdown网页的一些实用语法：
 </div>
 
 <br>
+[点击跳转](#dingbu)
