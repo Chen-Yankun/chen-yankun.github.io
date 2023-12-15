@@ -58,27 +58,27 @@ title: Liu Tingting's CV
 - **Construction and Implementation of Chinese Medicine Vision Inspection Knowledge Map**
    - Principal Investigator
    - General Project of Domestic First-class Discipline Construction in Traditional Chinese Medicine
-   - 1.0 million RMB
+   - 10000.0 RMB
 
 - **Effects of Modified Xiaoyao Powder on the Expression of miRNA146a, IRAK1, TRAF6, and NF-κB in an In Vitro Dry Eye Model**
    - Principal Investigator
    - Hunan Provincial Graduate Student Innovation Key Project
-   - 3.0 million RMB
+   - 30000.0n RMB
 
 - **Development of Chenpi Functional Beverage and its Prevention and Treatment of Type 2 Diabetes in SD Rats**
    - Participant
    - General Project of Hunan Provincial Department of Education
-   - 1.0 million RMB
+   - 10000.0 RMB
 
 - **Study on the Effects of PM2.5 on Ocular Surface Damage: Wind Pathogenicity, Pathogenic Mechanism, and Therapeutic Effects of Classic Prescriptions**
    - Participant
    - Key Project of Hunan Provincial Department of Education
-   - 40.0 million RMB
+   - 400000.0 RMB
 
 - **Screening of Biomarkers for Immunorelated Dry Eye Yin Deficiency Syndrome and Targeted Intervention of Lycium Chrysanthemum Pill**
    - Participant
    - Academician Workstation Guidance Project
-   - 40.0 million RMB
+   - 400000.0 RMB
 
 ## Publications:
 
