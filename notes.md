@@ -55,6 +55,7 @@ title: Notes
 ![Image 1](/path/to/image1.jpg) ![Image 2](/path/to/image2.jpg)
 ```
 这将在网页上水平排列两张图片。
+
 ###### 垂直排列
 ```markdown
 ![Image 1](/path/to/image1.jpg)
