@@ -35,13 +35,14 @@ Biomed Pharmacother.<br>
 
 ---
 
-## graduate Thesis
+## graduate Thesis（毕业论文）
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project. Under working<br>Expect to submit a research paper to IEEE Internet of Things Journal.
+- 博士毕业论文：从TRAF3IP2/NF-κB信号通路探讨陈皮药膳茶提取物防治肥胖症的机制。<br>**陈彦坤** (导师: 谢梦洲)。 <br>湖南中医药大学。
+- 硕士毕业论文：湖南地区正常人群阳虚质与平和质的脉诊信息特征对比研究。<br>**陈彦坤** (导师: 谢梦洲)。 <br>湖南中医药大学。
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
 
-  <br>
+
+<br>
 
 ## 中文期刊
 
