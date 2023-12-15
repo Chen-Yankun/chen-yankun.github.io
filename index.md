@@ -20,10 +20,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> ads!**
 
-- **Sep 2020 - June 2024:** 
-- **Sep 2020 - June 2024:** 
-- **June 2022 - Nov 2022:** 
-- 
+
+- **Sep 2020 - June 2023:** Hunan University of Chinese Medicine (PhD)
+- **Oct 2022 - Mar 2023:** University of Karachi (Exchange)
+- **Sep 2015 - June 2018:** Maynooth University (MD)
+- **Sep 2010 - June 2014:** Cambridge University (BEng)
 <br>
 
 ---
