@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blog111s
+## Chinese Blogs
 
 ### 2024
 

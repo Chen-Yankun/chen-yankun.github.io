@@ -4,7 +4,7 @@ permalink: /notes/index.html
 title: Notes
 ---
 
-## Paper Notes
+<h2 id="dingbu">Paper Notes</h>
 
 - 个人网站要添加什么东西
     - 个人对外的资料
@@ -16,7 +16,7 @@ title: Notes
     - 学术内容
 
 ---
-<a id="dingbu">markdown网页的一些实用语法：</a>
+markdown网页的一些实用语法：
   
 回车：&lt;br&gt;  
 
@@ -83,4 +83,4 @@ title: Notes
 </div>
 
 <br>
-[点击跳转](#dingbu)
+[回到顶部](#dingbu)
