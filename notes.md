@@ -114,7 +114,20 @@ title: Notes
 
 这将使图片浮动于文字之上。通过设置`position: relative;`和`position: absolute;`，可以实现图片相对于其包含块的绝对定位。通过调整`top`和`left`属性，可以控制图片的位置。
 
-请注意，上述示例中的路径 `"/path/to/image.jpg"` 应该替换为你实际图片的路径。在实际应用中，你可以根据需要调整样式和数值。
+在HTML中，你可以使用`<figure>`和`<figcaption>`元素来为图片添加标题。以下是一个示例：
+
+```html
+<figure>
+  <img src="path/to/your/image.jpg" alt="Image Description">
+  <figcaption>This is the caption for the image.</figcaption>
+</figure>
+```
+
+- `<figure>`：表示文档中的一部分，通常用于包裹图片。
+- `<img>`：用于嵌入图片，`src`属性指定图片的路径，`alt`属性提供图片的文本描述。
+- `<figcaption>`：用于定义`<figure>`元素的标题，即图片的说明文字。
+
+你可以将`src`属性替换为你实际图片的路径，将`alt`属性替换为图片的文本描述，将`<figcaption>`中的文字替换为你想要显示的标题。这样，图片和标题就会一起显示在页面上。
 
 
 <br>
