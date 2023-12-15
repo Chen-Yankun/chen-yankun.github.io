@@ -29,18 +29,6 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 *Biomed Pharmacother.*<br>
 *2020 Dec;132:110833. doi: 10.1016/j.biopha.2020.110833.*<br>
 
-1. **Chen YK**, Liu TT, Teia FKF, Xie MZ. Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature. *Front Endocrinol (Lausanne).* 2023 Aug 1;14:1218880. doi: [10.3389/fendo.2023.1218880](https://doi.org/10.3389/fendo.2023.1218880). PMID: 37600709; PMCID: PMC10433171.
-
-2. Liu TT, **Chen YK**, Adil M, Almehmadi M, Alshabrmi FM, Allahyani M, Alsaiari AA, Liu P, Khan MR, Peng Q. In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface. *Molecules.* 2023 Jun 21;28(13):4885. doi: [10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885). PMID: 37446547; PMCID: PMC10343601.
-
-3. Zou JJ, Zhou XT, **Chen YK**, Liu JL, Wang C, Ma YR, Wang L. A review on the efficacy and mechanism of action of Shenkang injection against chronic kidney disease. *Biomed Pharmacother.* 2020 Dec;132:110833. doi: [10.1016/j.biopha.2020.110833](https://doi.org/10.1016/j.biopha.2020.110833). Epub 2020 Oct 6. PMID: 33035831.
-
-4. Al-Shuhaib MBS, Alam S, Khan SA, Al-Shuhaib JMB, **Chen YK**, M Alshabrmi F. Hemagglutinin 3 and 8 can be the most efficient influenza subtypes for human host invasion; a comparative in silico approach. *J Biomol Struct Dyn.* 2023 Nov 15:1-19. doi: [10.1080/07391102.2023.2280674](https://doi.org/10.1080/07391102.2023.2280674). Epub ahead of print. PMID: 37965722.
-
-
-
-
-
 ---
 
 ## graduate Thesis（毕业论文）
