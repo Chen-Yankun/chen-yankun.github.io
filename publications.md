@@ -23,6 +23,13 @@ Al-Shuhaib MBS, Alam S, Khan SA, Al-Shuhaib JMB, **Chen YK** et al.<br>
 J Biomol Struct Dyn.<br>
 2023 Nov 15:1-19. doi: 10.1080/07391102.2023.2280674.<br>
 
+- [A review on the efficacy and mechanism of action of Shenkang injection against chronic kidney disease.](https://pubmed.ncbi.nlm.nih.gov/33035831/)<br>
+Zou JJ, Zhou XT, **Chen YK** et al.<br>
+Biomed Pharmacother.<br>
+2020 Dec;132:110833. doi: 10.1016/j.biopha.2020.110833.<br>
+
+<a href="https://pubmed.ncbi.nlm.nih.gov/33035831/" target="_blank">A review on the efficacy and mechanism of action of Shenkang injection against chronic kidney disease.</a>
+
 
 
 ---
