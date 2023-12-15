@@ -55,7 +55,7 @@ title: Notes
 #### 控制照片排列
 ##### 水平排列
 
-```markdown ![Image 1](/path/to/image1.jpg) ![Image 2](/path/to/image2.jpg)```
+`markdown ![Image 1](/path/to/image1.jpg) ![Image 2](/path/to/image2.jpg)`
 
 这将在网页上水平排列两张图片。
 
