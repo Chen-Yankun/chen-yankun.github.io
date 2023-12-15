@@ -6,9 +6,6 @@ title: 刘婷婷简历
 
 ## Published Papers
 
-1. **Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
-
-2. Chen YK, **Liu TT**, Teia FKF, Xie MZ. _**Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.**_ *Front Endocrinol (Lausanne).* 2023;14:1218880. Published 2023 Aug 1. doi:[10.3389/fendo.2023.1218880](https://doi.org/10.3389/fendo.2023.1218880).
 
 # 刘婷婷
 
@@ -21,13 +18,28 @@ title: 刘婷婷简历
 
 ## 发表论文
 
-| 论文标题 | 本人排名 | 期刊名称 | 发表时间 | 影响因子 |
-| --- | --- | --- | --- | --- |
-| In silico identification of natural product-based inhibitors targeting IL-1β/IL-1R protein-protein interface | 一 | Molecules | 2023.6 | 4.92 |
-| Exploring the underlying mechanisms of Obesity and Diabetes and the Potential of Traditional Chinese Medicine: An Overview of the Literature | 第二 | Frontiers in Endocrinology | 2023.7 | 6.0 |
-| 月华丸(胶囊)对耐多药结核菌感染自噬相关蛋白 LC3 的影响 | 一 | 湖南中医杂志 | 2019.3 | 0.514 |
-| 中医目诊的诊断原理及常见诊病部位 | 第四 | 中华中医药杂志 | 2022.9 | 1.679 |
-| 月华丸(胶囊)及其入血成分中地黄苷 A、麦冬皂 D 和原百部碱的 HPLC 法测定 | 第五 | 时珍国医国药 | 2017.8 | 0.922 |
+1. **Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
+
+2. Chen YK, **Liu TT**, Teia FKF, Xie MZ. _**Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.**_ *Front Endocrinol (Lausanne).* 2023;14:1218880. Published 2023 Aug 1. doi:[10.3389/fendo.2023.1218880](https://doi.org/10.3389/fendo.2023.1218880).
+
+[1] 张思淼,彭清华,赵晓威,等. **三棱莪术颗粒联合西药治疗肝硬化腹水血瘀水停证的疗效观察**[J]. *湖南中医药大学学报*, 2022, 42(11):1932-1937. DOI:10.3969/j.issn.1674-070X.2022.11.026.
+
+[2] 陈国茜,伍参荣,尹周安,等. **月华胶囊对耐多药结核分支杆菌感染自噬的影响**[J]. *中国实验方剂学杂志*, 2020, 26(2):72-79. DOI:10.13422/j.cnki.syfjx.20200241.
+
+[3] 邹俊驹,王茜,曾梅艳,等. **月华丸(胶囊)及其入血成分中地黄苷A、麦冬皂苷D和原百部碱的HPLC法测定**[J]. *时珍国医国药*, 2017, 28(8):1800-1802. DOI:10.3969/j.issn.1008-0805.2017.08.003.
+
+[4] **刘婷婷**,欧阳建军,伍参荣,等. **月华丸(胶囊)对耐多药结核菌感染自噬相关蛋白LC3的影响**[J]. *湖南中医杂志*, 2019, 35(3):129-131. DOI:10.16808/j.cnki.issn1003-7705.2019.03.061.
+
+[5] 宁尚圣,伍参荣,欧阳建军,等. **月华丸(胶囊)对耐多药结核分枝杆菌感染后细胞自噬的影响**[J]. *湖南中医杂志*, 2019, 35(2):130-132. DOI:10.16808/j.cnki.issn1003-7705.2019.02.059.
+
+[6] 宁尚圣,伍参荣,欧阳建军,等. **月华丸(胶囊)及其拆方对巨噬细胞增殖影响的研究**[J]. *湖南中医杂志*, 2018, 34(9):155-158. DOI:10.16808/j.cnki.issn1003-7705.2018.09.070.
+
+[7] **刘婷婷**,覃心宇,李芬,等. **糖尿病视网膜病变国内外预防经验及启示**[J]. *中国初级卫生保健*, 2023, 37(5):51-54. DOI:10.3969/j.issn.1001-568X.2023.05.0013.
+
+[8] 刘冬华,蒋鹏飞,刘培,等. **中医目诊的诊断原理及常见诊病部位**[J]. *中华中医药杂志*, 2022, 37(9):5294-5298.
+
+[9] 欧阳建军,王茜,伍参荣,等. **MTT 法测月华丸(胶囊)对巨噬细胞增殖的影响**[C]. //中华中医药学会第十七次中医方剂学术年会论文集. 2017:299-306.
+
 
 ## 课题情况：
 
