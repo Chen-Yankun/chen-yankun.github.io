@@ -25,7 +25,7 @@ title: 刘婷婷简历
 *Sep. 2016 – Jun. 2019*
 
 
-- **湖南中医药大学**
+- **湖南中医药大学·湘杏学院**
 *Bachelor of Chinese Medicine*
 *Sep. 2011 – Jun. 2016*
 
