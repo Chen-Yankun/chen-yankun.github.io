@@ -83,20 +83,19 @@ title: 刘婷婷简历
 
 ## 教育背景：
 
-- **Hunan University of Chinese Medicine (HUCM)**
+- **湖南中医药大学**
 *PhD. In Chinese Medicine*
 *Sep. 2020 – Jun. 2023*
 
 
-- **International Center for Chemical and Biological Sciences (ICCBS)**
-*University of Karachi*
-*Bachelor of Engineering in Automation (Taught in English)*
-*Oct. 2022 – Mar. 2023*
+- **湖南中医药大学**
+*MD. In Chinese Medicine*
+*Sep. 2016 – Jun. 2019*
 
 
-- **Hunan University of Chinese Medicine (HUCM)**
-*Bachelor of Science in Robotics and Intelligent Devices (Combined Degrees)*
-*Sep. 2015 – Jun. 2018*
+- **湖南中医药大学**
+*Bachelor of Chinese Medicine*
+*Sep. 2011 – Jun. 2016*
 
 
 ## 研究方向：
