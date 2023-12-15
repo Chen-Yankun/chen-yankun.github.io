@@ -41,8 +41,42 @@ title: Notes
 ```[点击跳转](#jump)```<br>
 点击上面的“点击跳转”，就会跳转到“跳转到的地方”了。<br>
 
+## 图片
+在Jekyll中，你可以使用Markdown语法结合HTML标签来控制照片的排列和大小。以下是一些示例：
+### 控制照片排列
+#### 水平排列
+```markdown
+![Image 1](/path/to/image1.jpg) ![Image 2](/path/to/image2.jpg)
+```
+这将在网页上水平排列两张图片。
+#### 垂直排列
+```markdown
+![Image 1](/path/to/image1.jpg)
+![Image 2](/path/to/image2.jpg)
+```
+这将在网页上垂直排列两张图片。
 
+### 控制照片大小
 
+#### 使用HTML的`<img>`标签
+
+```markdown
+<img src="/path/to/image.jpg" alt="Image" width="300" height="200">
+```
+
+上述示例将显示一张宽度为300像素、高度为200像素的图片。你可以根据需要调整 `width` 和 `height` 的值。
+
+### 图片居中显示
+
+```markdown
+<p align="center">
+  <img src="/path/to/image.jpg" alt="Image" width="300" height="200">
+</p>
+```
+
+这将使图片在网页上水平居中显示。
+
+请注意，路径 `"/path/to/image.jpg"` 应该替换为你实际图片的路径。同时，直接使用HTML标签的方法在Markdown中也是有效的，你可以根据具体需求选择使用Markdown语法或HTML标签。
 
 
 <br>
