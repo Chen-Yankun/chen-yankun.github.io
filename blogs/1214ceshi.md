@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/1214/index.html
-title: 1214 
+permalink: /blogs/1214ceshi/index.html
+title: 1214测试
 ---
 [11111](#markdown-用法)<br>
 跳转到的地方<br>
