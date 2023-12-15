@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /Tingting/TingtingCV/index.html
+title: 刘婷婷简历 
+---
+
 ## Published Papers
 
 1. **Liu TT**, Chen YK, Adil M, et al. _**In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.**_ *Molecules.* 2023;28(13):4885. Published 2023 Jun 21. doi:[10.3390/molecules28134885](https://doi.org/10.3390/molecules28134885).
