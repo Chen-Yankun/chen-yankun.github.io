@@ -82,7 +82,34 @@ title: Notes
 
 这将使图片在网页上水平居中显示。
 
-请注意，路径 `"/path/to/image.jpg"` 应该替换为你实际图片的路径。同时，直接使用HTML标签的方法在Markdown中也是有效的，你可以根据具体需求选择使用Markdown语法或HTML标签。
+##### 图片靠左显示
+
+```markdown
+<img src="/path/to/image.jpg" alt="Image" style="float: left; margin-right: 10px;">
+```
+
+这将使图片靠左显示，并在图片右侧留有一定的空白（10像素），使文字不会紧贴在图片边缘。
+
+##### 图片靠右显示
+
+```markdown
+<img src="/path/to/image.jpg" alt="Image" style="float: right; margin-left: 10px;">
+```
+
+这将使图片靠右显示，并在图片左侧留有一定的空白，避免文字与图片重叠。
+
+##### 图片浮动于文字之上
+
+```markdown
+<div style="position: relative;">
+  <img src="/path/to/image.jpg" alt="Image" style="position: absolute; top: 0; left: 0;">
+  <p>这是一些文字。</p>
+</div>
+```
+
+这将使图片浮动于文字之上。通过设置`position: relative;`和`position: absolute;`，可以实现图片相对于其包含块的绝对定位。通过调整`top`和`left`属性，可以控制图片的位置。
+
+请注意，上述示例中的路径 `"/path/to/image.jpg"` 应该替换为你实际图片的路径。在实际应用中，你可以根据需要调整样式和数值。
 
 
 <br>
