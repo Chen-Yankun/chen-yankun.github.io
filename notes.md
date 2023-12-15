@@ -13,10 +13,15 @@ title: Notes
         - 旅行
         - 拍照
         - 和婷婷一起
-    - 学术
+    - 学术内容
 
 ---
+markdown网页的一些实用语法：  
+外置网页的超链接：  
+ [这里写要点击的内容](https://这里放网址，点击内容就跳转到网址/)
 
+
+<br>
 <div class="third">
 <div><img src="/images/profile.jpg"></div>
 <div><img src="/images/profile.jpg"></div>
