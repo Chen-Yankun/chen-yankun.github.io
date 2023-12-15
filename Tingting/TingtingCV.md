@@ -6,7 +6,6 @@ title: 刘婷婷简历
 
 ## Published Papers
 
-
 # 刘婷婷
 
 - **出生年月:** 1996.07
