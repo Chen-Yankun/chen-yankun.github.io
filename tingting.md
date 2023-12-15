@@ -3,8 +3,8 @@ layout: page
 permalink: /tingting/index.html
 title: Tingting
 ---
-
-## Chinese Blog111s
+- [刘婷婷的简历](/Tingting/TingtingCV/)
+## Chinese Blogs
 
 ### 2023
 
