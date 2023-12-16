@@ -18,8 +18,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> ads!**
-
 
 - **Sep 2020 - June 2023:** Hunan University of Chinese Medicine (PhD)
 - **Oct 2022 - Mar 2023:** University of Karachi (Exchange)
