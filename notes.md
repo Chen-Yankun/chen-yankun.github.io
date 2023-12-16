@@ -44,7 +44,8 @@ title: Notes
 <span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>  
 ```<span style="font-family: '宋体'; font-size: 18px; color: #3778db;">自定义字体样式αβγδ</span>```
 <br>
-
+**<font color='red'>[Highlight]</font> ads!**  
+`**<font color='red'>[Highlight]</font> ads!**`
 
 ### 图片
 
