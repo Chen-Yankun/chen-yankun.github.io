@@ -47,6 +47,14 @@ title: Notes
 **<font color='red'>[Highlight]</font> ads!**  
 `**<font color='red'>[Highlight]</font> ads!**`
 
+<font color="red" size=6 face="宋体">字体颜色、大小、类型</font>
+``` markdown
+<font color="red" size=6 face="宋体">字体颜色、大小、类型</font>
+1. 其中参数 color 为字体颜色
+2. 其中参数 size 为字体大小
+3. 其中参数 face 为字体类型
+```
+
 ### 图片
 
 在Jekyll中，你可以使用Markdown语法结合HTML标签来控制照片的排列和大小。以下是一些示例：
