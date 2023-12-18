@@ -5,18 +5,20 @@ title: graft
 ---
 
 <h3 class="h3-title">
-                            <i class="iconfont huiicon-list"></i>
-                            最新文章
-                        </h3>
-                        <ul class="main-index-newlist hui-clear">
-                            <li>
-                                <a href="https://www.python100.com/html/I8CWF83F85Q0.html" title="Java策略模式">Java策略模式</a>
-                                <span>2023-09-17</span>
-                            </li>
-                            <li>
-                                <a href="https://www.python100.com/html/J2828NIA80NZ.html" title="Java开发入门实践">Java开发入门实践</a>
-                                <span>2023-09-17</span>
-                            </li>
+<i class="iconfont huiicon-list"></i>
+最新文章
+</h3>
+                        
+
+<li>
+<a href="https://www.python100.com/html/I8CWF83F85Q0.html" title="Java策略模式">Java策略模式</a>
+<span>2023-09-17</span>
+</li>
+<li>
+<a href="https://www.python100.com/html/J2828NIA80NZ.html" title="Java开发入门实践">Java开发入门实践</a>
+<span>2023-09-17</span>
+</li>
+
                             <li>
                                 <a href="https://www.python100.com/html/80HH89M8NZ7L.html" title="Java中Jedis的使用">Java中Jedis的使用</a>
                                 <span>2023-09-17</span>
