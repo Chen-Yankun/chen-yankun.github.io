@@ -4,7 +4,7 @@ permalink: /notes/markdown_notes/index.html
 title: Markdown用法
 ---
 
-<h2 id="dingbu">markdown网页的一些实用语法：</h1>
+<h2 id="dingbu">markdown网页的一些实用语法：</h2>
 
 ### 格式
 回车：&lt;br&gt;`<br>`
