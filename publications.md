@@ -70,6 +70,4 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 ---
 
-<div style="text-align:right;">
-    [回到顶部](#dingbu)
-</div>
+                                              [回到顶部](#dingbu)
