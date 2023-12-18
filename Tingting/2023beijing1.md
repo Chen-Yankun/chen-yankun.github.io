@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Tingting/2023beijing1/index.html
-title: 2023beijing1 
+title: 2023去北京 
 ---
 
 ## 2023上半年去北京玩
