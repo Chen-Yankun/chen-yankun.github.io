@@ -4,10 +4,10 @@ permalink: /notes/markdown_notes/index.html
 title: Markdown用法
 ---
 
-<h1 id="dingbu">markdown网页的一些实用语法：</h1>
+<h2 id="dingbu">markdown网页的一些实用语法：</h1>
 
-
-回车：&lt;br&gt;
+### 格式
+回车：&lt;br&gt;`<br>`
 ### 外置网页的超链接：
 
 [这里写要点击的内容](https://www.baidu.com/)  
