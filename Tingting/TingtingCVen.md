@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /Tingting/TingtingCVen/index.html
-title: Liu Tingting's CV
+title: Ting-ting Liu's CV
 ---
 
-# Liu Tingting
+# Ting-ting Liu 
 
 - **Date of Birth:** July 1996
 - **Education:** PhD
