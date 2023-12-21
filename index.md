@@ -25,9 +25,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ---
-## Workingg Experience
+## Working Experience
 
-- **Oct 2023 - Now:** Zhuhai Institute of Adcanced Technology (Post-doc)
+- **Oct 2023 - Now:**      Zhuhai Institute of Adcanced Technology (Post-doc)
 - **Jun 2018 - Aug 2020:** Hunan Engineering Technology Research Center for Medicinal and Functional Food (Research Assistant)
 
 
