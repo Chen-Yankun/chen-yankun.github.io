@@ -9,7 +9,7 @@ title: Publications
 
 - <a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2023.2294384/" target="_blank">Identification of potential inhibitors targeting Ebola virus VP35 protein: a computational strategy.</a><br>
 **Chen YK**, Reem M. Gahtani, Xie MZ et al.<br>
-*J BIOMOL STRUCT DYN*<br>
+*J Biomol Struct Dyn.*<br>
 *DOI: 10.1080/07391102.2023.2294384*
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37600709/" target="_blank">Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.</a><br>
