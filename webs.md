@@ -21,6 +21,59 @@ title: 网络收藏夹
 
 
 ### 吃喝玩乐
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /* Add some basic styling for the columns */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        /* Style each link */
+        a {
+            display: block;
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-decoration: none;
+            color: #333;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        /* Hover effect on links */
+        a:hover {
+            background-color: #ddd;
+        }
+
+        /* Divide into two columns on larger screens */
+        @media (min-width: 600px) {
+            body {
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Links in two columns -->
+    <a href="https://www.zhihu.com" target="_blank">知乎</a>
+    <a href="https://www.bilibili.com" target="_blank">哔哩哔哩</a>
+    <a href="https://www.cnki.net" target="_blank">中国知网</a>
+    <a href="https://www.wanfangdata.com.cn" target="_blank">万方数据库</a>
+    <a href="http://www.jieyoutsg.com" target="_blank">解忧图书馆</a>
+    <a href="https://translate.google.com.hk" target="_blank">Google翻譯</a>
+    <a href="https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d" target="_blank">ChatGPT</a>
+    <a href="https://yiyan.baidu.com/" target="_blank">文心一言</a>
+</body>
+</html>
 
 
 
