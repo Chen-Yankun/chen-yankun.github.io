@@ -6,18 +6,18 @@ title: 网络收藏夹
 
 ## 网络收藏夹
 ### 学习知识
-[知乎](https://www.zhihu.com){:target="_blank"}<br>  
-[哔哩哔哩](https://www.bilibili.com){:target="_blank"}<br>  
+[知乎](https://www.zhihu.com){:target="_blank"}<br>
+[哔哩哔哩](https://www.bilibili.com){:target="_blank"}<br>
 ### 文献查找
-[中国知网](https://www.cnki.net){:target="_blank"}<br>  
-[万方数据库](https://www.wanfangdata.com.cn){:target="_blank"}<br>  
-[PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}<br>  
-[解忧图书馆](http://www.jieyoutsg.com){:target="_blank"}<br>  
-[Google翻譯](https://translate.google.com.hk){:target="_blank"}<br>  
-[Chatgpt](https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d){:target="_blank"}<br>  
-[文心一言](https://yiyan.baidu.com/){:target="_blank"}<br>  
+[中国知网](https://www.cnki.net){:target="_blank"}<br>
+[万方数据库](https://www.wanfangdata.com.cn){:target="_blank"}<br>
+[PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}<br>
+[解忧图书馆](http://www.jieyoutsg.com){:target="_blank"}<br>
+[Google翻譯](https://translate.google.com.hk){:target="_blank"}<br>
+[Chatgpt](https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d){:target="_blank"}<br>
+[文心一言](https://yiyan.baidu.com/){:target="_blank"}<br>
 ### 吃喝玩乐
-[漫岛动漫](https://www.mddmx.com/){:target="_blank"}<br>  
+[漫岛动漫](https://www.mddmx.com/){:target="_blank"}<br>
 [Google](https://www.google.com.hk/){:target="_blank"}<br>
 
 ### 学习知识
