@@ -21,6 +21,12 @@ title: 网络收藏夹
 
 
 ### 吃喝玩乐
+---
+layout: default
+title: Links
+---
+
+{% raw %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -74,6 +80,7 @@ title: 网络收藏夹
     <a href="https://yiyan.baidu.com/" target="_blank">文心一言</a>
 </body>
 </html>
+{% endraw %}
 
 
 
