@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2020 - June 2023:** Hunan University of Chinese Medicine (PhD)
-- **Oct 2022 - Mar  2023:** University of Karachi (Exchange)
+- **Oct 2022 - Mar 2023:**&nbsp; University of Karachi (Exchange)
 - **Sep 2015 - June 2018:** Hunan University of Chinese Medicine (MD)
 - **Sep 2010 - June 2014:** Guangxi University (BEng)
 <br>
@@ -27,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 ## Working Experience
 
-- **Oct 2023 - Now:**      Zhuhai Institute of Adcanced Technology (Post-doc)
+- **Oct 2023 - Now:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhuhai Institute of Adcanced Technology (Post-doc)
 - **Jun 2018 - Aug 2020:** Hunan Engineering Technology Research Center for Medicinal and Functional Food (Research Assistant)
 
 

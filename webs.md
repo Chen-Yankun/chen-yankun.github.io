@@ -24,12 +24,10 @@ title: 网络收藏夹
 
 | 左列                                | 右列                                  |
 | ------------------------------------ | ------------------------------------ |
-| [知乎](https://www.zhihu.com)        | [哔哩哔哩](https://www.bilibili.com)  |
-| [中国知网](https://www.cnki.net)     | [万方数据库](https://www.wanfangdata.com.cn) |
-| [解忧图书馆](http://www.jieyoutsg.com)| [Google翻譯](https://translate.google.com.hk) |
-| [ChatGPT](https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d) | [文心一言](https://yiyan.baidu.com/) |
-
-
+| [知乎](https://www.zhihu.com){:target="_blank"} | [哔哩哔哩](https://www.bilibili.com){:target="_blank"} |
+| [中国知网](https://www.cnki.net){:target="_blank"} | [万方数据库](https://www.wanfangdata.com.cn){:target="_blank"} |
+| [解忧图书馆](http://www.jieyoutsg.com){:target="_blank"} | [Google翻譯](https://translate.google.com.hk){:target="_blank"} |
+| [ChatGPT](https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d){:target="_blank"} | [文心一言](https://yiyan.baidu.com/){:target="_blank"} |
 
 
 <br>
