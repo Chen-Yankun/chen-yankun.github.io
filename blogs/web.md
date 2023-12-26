@@ -3,11 +3,11 @@ layout: page
 permalink: /blogs/web/index.html
 title: web
 ---
-
-## 建站完全指南
+<h1 id="dingbu">建站完全指南</h1>
 
 > Philosophy：极简、高效、免费
 
+转载自[GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)
 <center>
 <img src = "/blogs/web.assets/github-logo.png">
 </center>
@@ -236,4 +236,5 @@ links:
 
 <br>
 
-<p align="right">最后更新于2023年冬</p>
+<p align="right">[回到顶部](#dingbu)</p>
+[回到顶部](#dingbu)
