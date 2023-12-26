@@ -6,9 +6,9 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2024
+### 博客
 
-- [2024](/blogs/24fall/)
+- [如何建立个人网站](/blogs/web/)
 
 ### 2023
 - [猫猫超市的狗狗](/blogs/2023/12/1214)<br>
