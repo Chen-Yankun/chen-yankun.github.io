@@ -18,7 +18,9 @@ title: Notes
 ---
 ## Markdown
 - [Markdown语法笔记](/notes/markdown_notes/)
+
 ## 生信
+
 - [log2FC](/notes/log2FC/)
 - [生信火山图画法](/notes/biovolcano/)
 <br>
