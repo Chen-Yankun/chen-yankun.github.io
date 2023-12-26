@@ -36,5 +36,5 @@ P1<-ggplot(mydata, aes(x = reorder(Name, log2FC), y = log2FC, fill = T)) +
   labs(x = "",      # 修饰x与y上的标签
        y = "log2(FC)")
 
-ggsave("results.pdf",plot=P1,height=20,width=10)
+ggsave("results.pdf",plot=P1,height=20,width=10)#根据自己图的大小，调整宽高。
 ```
