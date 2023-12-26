@@ -3,7 +3,8 @@ layout: page
 permalink: /notes/bioinfo/barplot/index.html
 title: 差异基因柱状图绘制
 ---
-
+## 差异基因柱状图绘制
+#### 获得差异基因或者差异代谢物后，计算FC值后就可以绘制了
 ```
 #install.packages("forcats")
 #install.packages("cluster")
