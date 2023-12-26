@@ -162,15 +162,7 @@ links:
 
 <br>神奇的链接，联系了你和我，让我们相遇在这个博客。当你看到这些文字时，你正在和过去的我进行深度的交流。我很高兴你愿意仔细阅读我的文字，如果你想认识我，欢迎加入我们的Jekyll运营社群，让我们在**三次元**进一步`connect each other`吧！
 
-<br>![IMG_1138](web.assets/IMG_1138.JPG)
-
-> **Update in July 2023**
->
-> 最后一次更新二维码，如过期，请直接添加微信：**lancecai2002**
->
-> 有问题请在交流群中直接提问，谢绝私信答疑，感激不尽！
->
-> 知乎付费咨询通道：[请点击此处](https://www.zhihu.com/consult/people/1135256969806925824)
+<br>
 
 <br>回到正题，上面说到，图片媒体的配置，可以通过“相对地址”（亦可以使用绝对地址）
 
@@ -181,7 +173,7 @@ links:
 <br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
 
 ```markdown
-[Here is my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf)
+[Here is my Resume](https://path.com/to/file.pdf)
 [] 里面放置你想显示的内容文本
 () 紧跟着，放置文件的绝对地址
 ```
@@ -220,7 +212,7 @@ links:
 
 ## 写在最后
 
-最后的最后，感谢你阅读这份文字。如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)的右上角点一个`star`，鼓励我持续运营这个项目。
+最后的最后，感谢你阅读这份文字。如果笔者的博客成功帮助你完成了Jekyll个人站点的搭建，还请你给[本仓库](https://github.com/chen-yankun/chen-yankun.github.io)的右上角点一个`star`，鼓励我持续运营这个项目。
 
 <br>**这对我非常重要，特别感谢！**
 
@@ -236,5 +228,5 @@ links:
 
 <br>
 
-<p align="right">[回到顶部](#dingbu)</p>
+<p align="right">.</p>
 [回到顶部](#dingbu)
