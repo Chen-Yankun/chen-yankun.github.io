@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /notes/log2FC/index.html
+permalink: /notes/bioinfo/log2FC/index.html
 title: log2FC和FDR
 ---
 ## log2FC的意义

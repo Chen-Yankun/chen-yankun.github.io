@@ -21,7 +21,8 @@ title: Notes
 
 ## 生信
 
-- [log2FC](/notes/log2FC/)
-- [生信火山图画法](/notes/biovolcano/)
+- [log2FC](/notes/bioinfo/log2FC/)
+- [差异基因柱状图](/notes/bioinfo/barplot/)
+- [生信火山图画法](/notes/bioinfo/biovolcano/)
 <br>
 [回到顶部](#dingbu)

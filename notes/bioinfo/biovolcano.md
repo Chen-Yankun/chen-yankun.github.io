@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /notes/biovolcano/index.html
+permalink: /notes/bioinfo/biovolcano/index.html
 title: 生信火山图（转载）
 ---
 
@@ -77,5 +77,5 @@ ggplot(Dat,aes(x=log2FoldChange,y=-log10(padj),color=threshold))+
 
 其中说明一下lty是用于描述添加线的类型，数字对应不同的类型，具体的可以参考下图：
 <p align="center">
-<img src= "/notes/火山图.png" width="60%">
+<img src= "/notes/bioinfo/火山图.png" width="60%">
 </p><br>
