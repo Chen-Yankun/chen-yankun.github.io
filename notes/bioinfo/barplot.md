@@ -5,7 +5,7 @@ title: 差异基因柱状图绘制
 ---
 ## 差异基因柱状图绘制
 #### 获得差异基因或者差异代谢物后，计算FC值后就可以绘制了
-```
+``` java
 #install.packages("forcats")
 #install.packages("cluster")
 #install.packages("ggplot2")
