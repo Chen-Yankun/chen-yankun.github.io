@@ -18,5 +18,6 @@ title: Notes
 ---
 
 - [Markdown语法笔记](/notes/markdown_notes/)
+- [生信火山图画法](/notes/biovolcano/)
 <br>
 [回到顶部](#dingbu)
