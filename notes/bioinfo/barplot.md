@@ -13,6 +13,7 @@ title: 差异基因柱状图绘制
 + 基因列表头为`Name`，数据（log2FC,或自定）表头为`log2FC`
 + 运行代码，结果输出在源文件夹，名字为：`results.pdf`
 <br>
+
 ``` R
 #install.packages("forcats")
 #install.packages("ggplot2")
