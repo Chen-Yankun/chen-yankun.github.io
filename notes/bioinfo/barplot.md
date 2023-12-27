@@ -5,9 +5,16 @@ title: 差异基因柱状图绘制
 ---
 ## 差异基因柱状图绘制
 #### 获得差异基因或者差异代谢物后，计算FC值后就可以绘制了
+---
+##### 使用须知：
++ 首先安装要用的包`ggplot2`
++ 将数据放在csv格式中，放到同一目录（也可先设置工作路径），命名`data2`
++ 最左边一列除表头，用序号标识
++ 基因列表头为`Name`，数据（log2FC,或自定）表头为`log2FC`
++ 运行代码，结果输出在源文件夹，名字为：`results.pdf`
+<br>
 ``` R
 #install.packages("forcats")
-#install.packages("cluster")
 #install.packages("ggplot2")
 
 library(ggplot2)
