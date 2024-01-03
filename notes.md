@@ -18,7 +18,8 @@ title: Notes
 - [生信火山图画法](/notes/bioinfo/biovolcano/)
 
 ### 代谢组学
-- [代谢组学的原始数据](/notes/metabolomics/data1/)
+- [代谢组学的原始数据处理](/notes/metabolomics/data1/)
+
 
 <br>
 [回到顶部](#dingbu)
