@@ -13,5 +13,5 @@ title: 代谢组学的原始数据
 
 ### 最后要呈现的数据
 <p align="center">
-<img src= "/notes/metabolomics/代谢组数据表头.png" width="60%">
+<img src= "/notes/metabolomics/代谢组数据表头.png" width="90%">
 </p><br>
