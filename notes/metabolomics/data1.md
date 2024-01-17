@@ -16,6 +16,9 @@ title: 代谢组学的原始数据
 <img src= "/notes/metabolomics/代谢组数据表头.png" width="90%">
 </p><br>
 
+![data1](/notes/metabolomics/代谢组数据表头.png)
+
+<br>
 
 ### ORA富集分析和SMPDB通路分析
 使用<a href="https://www.metaboanalyst.ca/MetaboAnalyst/ModuleView.xhtml" target="_blank">MetaboAnalyst 6.0网页版</a>基于SMPDB数据库进行ORA富集分析(Enrichment Analysis)和通路分析(Pathway Analysis)。<br>
