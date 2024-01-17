@@ -15,6 +15,12 @@ title: Markdown用法
 **点击网站后弹出新窗口：**
 <a href="https://www.baidu.com/" target="_blank">这里写要点击的内容</a>
 `<a href="https://www.example.com/" target="_blank">这里写要点击的内容</a>`
+<br>
+
+#### 其他
+**[Markdown链接语法](https://markdown.com.cn/basic-syntaxlinks.htmI "标题")**
+*[Markdown链接语法](https://markdown.com.cn/basic-syntax/links.html "标题")*
+[`Markdown链接语法`](https://markdown.com.cn/basic-syntax/links.html "标题")
 
 ### 页内跳转：
 首先设置
@@ -46,9 +52,6 @@ title: Markdown用法
 
 ### 图片
 
-**[Markdown链接语法](https://markdown.com.cn/basic-syntaxlinks.htmI "标题")**
-*[Markdown链接语法](https://markdown.com.cn/basic-syntax/links.html "标题")*
-[`Markdown链接语法`](https://markdown.com.cn/basic-syntax/links.html "标题")
 
 在Jekyll中，你可以使用Markdown语法结合HTML标签来控制照片的排列和大小。以下是一些示例：
 #### 控制照片排列
