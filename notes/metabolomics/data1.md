@@ -20,7 +20,10 @@ title: 代谢组学的原始数据
 FDR=false discovery rate（伪发现率），计算方法：<br>
 - 对*P*值排序，从小到大
 - FDR=*P*×总数÷排序号
+<br>
+现在我们有了FC、log2FC、FDR，就可以进行下一步了。
 
+### 差异代谢物可视化
 
 ### 最后要呈现的数据
 <p align="center">
