@@ -71,7 +71,7 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 ## 专著
 - <a href="http://product.dangdang.com/29263161.html" target="_blank">《图解脉诊入门到精通》</a>编委，出版社：化学工业出版社，出版时间：2021年05月。
-- <a href="http://e.dangdang.com/products/1901148707.html" target="_blank">《中医脉诊临床图解》</a>编委，出版社：化学工业出版社出版时间：2022年06月。
+- <a href="https://search.kongfz.com/product_result/?key=%E4%B8%AD%E5%8C%BB%E8%84%89%E8%AF%8A%E4%B8%B4%E5%BA%8A%E5%9B%BE%E8%A7%A3&status=0&_stpmt=eyJzZWFyY2hfdHlwZSI6ImFjdGl2ZSJ9" target="_blank">《中医脉诊临床图解》</a>编委，出版社：化学工业出版社出版时间：2022年06月。
 
 ---
 
