@@ -47,10 +47,10 @@ links:
     url: /tingting/
   #- title: Hobbies
     #url: /hobbies/
-  - title: 笔记
+  - title: Notes
     url: /notes/
-  - title: 博客
-    url: /blogs/
+  #- title: 博客
+    #url: /blogs/
 
 #http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
