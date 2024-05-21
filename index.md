@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2010 - June 2014:** Guangxi University (BEng)
 <br>
 
----
+
 ## Working Experience
 
 - **Oct 2023 - Now:** Zhuhai Institute of Adcanced Technology (Post-doc)
@@ -31,7 +31,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 
 <br>
----
+
 
 ## Research Interests
 
@@ -71,14 +71,12 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 *Biomed Pharmacother.*<br>
 *2020 Dec;132:110833. DOI: 10.1016/j.biopha.2020.110833.*<br>
 
----
 
 ## Graduate Thesis（毕业论文）
 
 - 博士毕业论文：从TRAF3IP2/NF-κB信号通路探讨陈皮药膳茶提取物防治肥胖症的机制。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
 - 硕士毕业论文：湖南地区正常人群阳虚质与平和质的脉诊信息特征对比研究。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
 
----
 
 <br>
 
@@ -106,17 +104,14 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 - 谢梦洲,**陈彦坤**,刘琦,等. 正常人群气虚质寸口脉脉图参数特征研究[C]. 日中伝统医药国际学术交流研讨会论文集. 2018:49-53.
 
----
 
 ## 专著
 - <a href="http://product.dangdang.com/29263161.html" target="_blank">《图解脉诊入门到精通》</a>编委，出版社：化学工业出版社，出版时间：2021年05月。
 - <a href="https://search.kongfz.com/product_result/?key=%E4%B8%AD%E5%8C%BB%E8%84%89%E8%AF%8A%E4%B8%B4%E5%BA%8A%E5%9B%BE%E8%A7%A3&status=0&_stpmt=eyJzZWFyY2hfdHlwZSI6ImFjdGl2ZSJ9" target="_blank">《中医脉诊临床图解》</a>编委，出版社：化学工业出版社出版时间：2022年06月。
 
----
 
 [回到顶部](#dingbu)
 
----
 
 ## News and Updates
 
