@@ -20,8 +20,6 @@ title: Notes
 ### 代谢组学
 - [代谢组学的原始数据处理](/notes/metabolomics/data1/)
 
-## Chinese Blogs
-
 ### 博客
 
 - [如何建立个人网站](/blogs/web/)
