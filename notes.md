@@ -20,6 +20,20 @@ title: Notes
 ### 代谢组学
 - [代谢组学的原始数据处理](/notes/metabolomics/data1/)
 
+## Chinese Blogs
+
+### 博客
+
+- [如何建立个人网站](/blogs/web/)
+
+### 2024
+- [香辛料](/blogs/2024/01/0115)<br>
+
+### 2023
+- [猫猫超市的狗狗](/blogs/2023/12/1214)<br>
+- [markdown测试](/blogs/1214ceshi)<br>
+
+
 
 <br>
 [回到顶部](#dingbu)
