@@ -13,6 +13,7 @@ Outside of my professional pursuits, I have a keen interest in AI art, finding j
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *ketzap@qq.com*
 <br>
+
 ## Academic Background
 
 - **Sep 2020 - June 2023:** Hunan University of Chinese Medicine (PhD)
@@ -26,6 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Oct 2023 - Now:** Zhuhai Institute of Adcanced Technology (Post-doc)
 - **Jun 2018 - Aug 2020:** Hunan Engineering Technology Research Center for Medicinal and Functional Food (Research Assistant)
 <br>
+
 ## Scientific research skills
 
 - Familiar with the extraction, separation, and purification methods of Chinese herbal medicines. 
