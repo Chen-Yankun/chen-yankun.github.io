@@ -40,7 +40,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 Yang Y, **Chen YK**, Xie MZ.<br>
 *World Journal of Psychiatry.*<br>
 *2024 May 19. DOI: 10.5498/wjp.v14.i5.0000*
-
 - <a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2023.2294384/" target="_blank">Identification of potential inhibitors targeting Ebola virus VP35 protein: a computational strategy.</a><br>
 **Chen YK**, Reem M. Gahtani, Xie MZ et al.<br>
 *J Biomol Struct Dyn.*<br>
