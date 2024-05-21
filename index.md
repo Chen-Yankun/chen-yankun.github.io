@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h1 id="dingbu">About Me</h2>
+<h1 id="dingbu">About Me</h1>
 
 <img src="/images/shuaibi1.jpg" class="floatpic" width="588" height="784">
 
