@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2020 - June 2023:** Hunan University of Chinese Medicine (PhD)
-- **Oct 2022 - Mar  2023:** University of Karachi (Exchange)
+- **Oct 2022 - Mar  2023:** University of Karachi (Visiting scholar)
 - **Sep 2015 - June 2018:** Hunan University of Chinese Medicine (MD)
 - **Sep 2010 - June 2014:** Guangxi University (BEng)
 <br>
@@ -38,7 +38,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Familiar with the extraction, separation, and purification methods of Chinese herbal medicines. 
 - Skilled in using analytical instruments such as HPLC/UPLC and triple quadrupole mass spectrometry.
 - Familiar with medical experimental skills, proficient in cell experiments, animal experiments, PCR, and Wb operation methods.
-
+- Familiar with the production process of traditional Chinese medicinal diet products, including: recipe selection ideas, Chinese medicine compatibility, and experimental design.
 <br>
 
 ## Journal Papers
