@@ -33,9 +33,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 
-## Research Interests
+## Scientific research skills
 
-- I
+- Familiar with the extraction, separation, and purification methods of Chinese herbal medicines. 
+- Skilled in using analytical instruments such as HPLC/UPLC and triple quadrupole mass spectrometry.
+- Familiar with medical experimental skills, proficient in cell experiments, animal experiments, PCR, and Wb operation methods.
 
 <br>
 
