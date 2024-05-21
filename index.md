@@ -41,7 +41,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 <br>
 
-## Journal Paper
+## Journal Papers
 
 - <a href="	https://www.wjgnet.com/2220-3206/full/v14/i5/607.htm/" target="_blank">Exploring the transformative impact of traditional Chinese medicine on depression: Insights from animal models.</a><br>
 Yang Y, **Chen YK**, Xie MZ.<br>
