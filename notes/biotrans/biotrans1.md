@@ -45,7 +45,8 @@ Using Rhizopus stolonifer for the biotransformation of drugs is a complex but im
 Strain Selection and Cultivation:<br>
 Select the Rhizopus stolonifer strain (RS) from the ATCC strain bank. Inoculate RS into an appropriate culture medium.<br>
 Culture RS for a certain period (3 days) at an appropriate temperature (such as 28°C) to allow the strain to grow sufficiently.<br>
-
+![Image 1](/notes/biotrans/RS1.jpg)
+<br>
 Fermentation and Biotransformation:<br>
 Add the substrate into the culture flask.<br>
 Conduct fermentation under appropriate conditions, including temperature, pH value, and oxygen supply.<br>
