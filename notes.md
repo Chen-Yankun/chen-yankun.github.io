@@ -21,7 +21,7 @@ title: Notes
 - [代谢组学的原始数据处理](/notes/metabolomics/data1/)
 
 ### 生物转化
-- [代谢组学的原始数据处理](/notes/metabolomics/data1/)
+- [生物转化基础](/notes/biotrans/biotrans1/)
 
 ### 博客
 
