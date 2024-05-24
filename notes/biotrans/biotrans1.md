@@ -17,7 +17,25 @@ Compared to traditional chemical synthesis methods, biotransformation using mold
 在药物合成领域，利用霉菌进行生物转化已经成功应用于多种药物的合成和改性。例如，一些抗生素和抗癌药物就是通过霉菌的生物转化过程得到的。此外，随着生物技术的不断发展，人们还可以利用基因工程等手段对霉菌进行改造和优化，进一步提高其生物转化能力和效率。<br>
 In the field of pharmaceutical synthesis, the use of molds for biotransformation has been successfully applied to the synthesis and modification of various drugs. For instance, several antibiotics and anticancer drugs have been derived through the biotransformation process involving molds. Furthermore, with the continuous development of biotechnology, genetic engineering techniques can be employed to modify and optimize molds, further enhancing their biotransformation capabilities and efficiency.<br>
 
-
-
 总之，利用霉菌进行生物转化是一种具有创新性和实用性的药物合成方法，它在药物发现和药物制造领域具有广泛的应用前景。随着相关技术的不断发展和完善，相信这种方法将会为药物合成领域带来更多的突破和进展。<br>
 In summary, the biotransformation of compounds using molds is an innovative and practical approach in drug synthesis, offering vast potential in drug discovery and pharmaceutical manufacturing. With the continuous advancement and refinement of related technologies, it is anticipated that this method will bring more breakthroughs and advancements to the field of pharmaceutical synthesis.<br>
+
+<!-- 使用黑根霉进行药物的生物转化是一个复杂但重要的过程，具体步骤可能因实验条件和目标而有所不同。以下是一个一般性的步骤概述：
+
+菌株筛选与培养：
+从ATCC菌株库中选取黑根霉菌株（Rhizopus stolonifer）。
+在适当的培养液中接种RS。
+在适当的温度（如28°C）下培养一定时间（3天），使黑根霉菌株充分生长。
+发酵与转化：
+将底物加入到培养瓶中。
+在适当的温度、pH值和氧气供应条件下进行发酵。
+在发酵过程中，黑根霉菌会利用其酶系统对药物或前体化合物进行生物转化，生成具有药用价值的新化合物。
+产物提取与纯化：
+在发酵结束后，通过离心、过滤或萃取等方法将产物从发酵液中分离出来。
+使用色谱、结晶等纯化技术进一步提高产物的纯度和质量。
+产物鉴定与评估：
+使用色谱、质谱、光谱等分析方法对纯化后的产物进行结构鉴定和纯度评估。
+通过生物活性测试等方法评估产物的药用价值和潜在应用。
+优化与扩大生产：
+根据实验结果优化菌株、培养基和发酵条件等参数，提高生物转化的效率和产物的产量。
+在优化条件下进行扩大生产，以满足药物研发和生产的需要。 -->
