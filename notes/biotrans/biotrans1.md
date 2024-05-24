@@ -39,3 +39,26 @@ In summary, the biotransformation of compounds using molds is an innovative and 
 优化与扩大生产：
 根据实验结果优化菌株、培养基和发酵条件等参数，提高生物转化的效率和产物的产量。
 在优化条件下进行扩大生产，以满足药物研发和生产的需要。 -->
+
+Using Rhizopus stolonifer for the biotransformation of drugs is a complex but important process, and the specific steps may vary depending on experimental conditions and objectives. The following provides a general overview of the steps:<br>
+
+Strain Selection and Cultivation:<br>
+Select the Rhizopus stolonifer strain (RS) from the ATCC strain bank. Inoculate RS into an appropriate culture medium.<br>
+Culture RS for a certain period (3 days) at an appropriate temperature (such as 28°C) to allow the strain to grow sufficiently.<br>
+
+Fermentation and Biotransformation:<br>
+Add the substrate into the culture flask.<br>
+Conduct fermentation under appropriate conditions, including temperature, pH value, and oxygen supply.<br>
+During the fermentation process, Rhizopus stolonifer utilizes its enzymatic system to biotransform drugs or precursor compounds, resulting in the formation of new compounds with medicinal value.<br>
+
+Product Extraction and Purification:<br>
+After fermentation, separate the product from the fermentation broth through methods such as centrifugation, filtration, or extraction.<br>
+Further improve the purity and quality of the product using chromatography, crystallization, and other purification techniques.<br>
+
+Product Identification and Evaluation:<br>
+Use chromatography, mass spectrometry, spectroscopy, and other analytical methods to identify the structure and evaluate the purity of the purified product.<br>
+Assess the medicinal value and potential applications of the product through biological activity tests and other methods.<br>
+
+Optimization and Scale-up Production:<br>
+Optimize parameters such as strain, culture medium, and fermentation conditions based on experimental results to improve the efficiency of biotransformation and increase product yield.<br>
+Conduct scaled-up production under optimized conditions to meet the needs of drug research and development and production.<br>
