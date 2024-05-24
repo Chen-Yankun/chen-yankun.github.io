@@ -42,6 +42,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 Yang Y, **Chen YK**, Xie MZ.<br>
 *World Journal of Psychiatry.*<br>
 *2024 May 19. DOI: 10.5498/wjp.v14.i5.0000*
+
 - <a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2023.2294384/" target="_blank">Identification of potential inhibitors targeting Ebola virus VP35 protein: a computational strategy.</a><br>
 **Chen YK**, Reem M. Gahtani, Xie MZ et al.<br>
 *J Biomol Struct Dyn.*<br>
@@ -70,8 +71,8 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 ## Graduate Thesis（毕业论文）
 
-- 博士毕业论文：从TRAF3IP2/NF-κB信号通路探讨陈皮药膳茶提取物防治肥胖症的机制。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
-- 硕士毕业论文：湖南地区正常人群阳虚质与平和质的脉诊信息特征对比研究。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
+- **博士毕业论文**：从TRAF3IP2/NF-κB信号通路探讨陈皮药膳茶提取物防治肥胖症的机制。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
+- **硕士毕业论文**：湖南地区正常人群阳虚质与平和质的脉诊信息特征对比研究。<br>**陈彦坤** (导师: 谢梦洲)，湖南中医药大学。
 
 
 <br>
@@ -79,13 +80,9 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 ## 中文期刊
 
 - 马一帆,宁世鸿,**陈彦坤**,等. 《针灸大成》中承山穴临床应用浅析[J]. 山西中医药大学学报,2022,23(3):233-235,240.
-
 - 饶智,**陈彦坤**,刘斌,等. “药食同源”植物酵素研究进展[J]. 食品与发酵工业,2020,46(9):290-294.
-
 - 陈宇奇,**陈彦坤**,石天爱,等. 80例不同肝功能指标体检人群脉象频域参数差异研究[J]. 亚太传统医药,2021,17(1):134-138.
-
 - 喻心傲,瞿昊宇,**陈彦坤**,等. 湖南地区超重人群高血压脉象频域特征研究[J]. 湖南中医药大学学报,2020,40(6):717-721.
-
 - **陈彦坤**,刘琦,瞿浩宇,等. 气虚质健康人群寸口脉脉诊信息特征研究[J]. 湖南中医药大学学报,2018,38(3):289-291.
 
 - 饶智,陈光宇,何群，**陈彦坤**,等. 基于电子舌技术与人工口尝评价相结合的羌活胜湿汤矫味技术研究[J]. 中药材,2021,44(3):658-663.
@@ -107,11 +104,4 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 
 [回到顶部](#dingbu)
-
-
-## News and Updates
-
-- **
-
-<br>
 
