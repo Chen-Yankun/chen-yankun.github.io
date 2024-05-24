@@ -22,6 +22,7 @@ title: Notes
 
 ### 生物转化
 - [生物转化基础](/notes/biotrans/biotrans1/)
+- [匍枝根霉（*Rhizopus stolonifer*）](/notes/biotrans/RS/)
 
 ### 博客
 
