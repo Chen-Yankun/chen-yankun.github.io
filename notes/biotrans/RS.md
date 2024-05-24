@@ -21,4 +21,4 @@ title: 匍枝根霉
 
 <br>此外，根霉的种类能够降解纤维素，尽管其速度比更特化的褐腐真菌要慢。这已经反映在现代基因组学和蛋白质组学上，其中从根霉物种中鉴定出的纤维素酶相对较少。在单糖和双糖利用的情况下，一种独特的进化适应和专门化是明显的。根霉物种能够吸收通常在植物基物质水解过程中发现的糖，如戊糖和纤维二糖。然而，蔗糖通常不被这些真菌利用。
 
-[^1]: LENNARTSSON P R, TAHERZADEH M J, EDEBO L. Rhizopus[D] :Academic Press,2014.
+<br>[^1]: LENNARTSSON P R, TAHERZADEH M J, EDEBO L. Rhizopus[D] :Academic Press,2014.
