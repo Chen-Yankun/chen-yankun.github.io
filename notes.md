@@ -31,8 +31,9 @@ title: Notes
 - [香辛料](/blogs/2024/01/0115)<br>
 
 ### 2023
-- [猫猫超市的狗狗](/blogs/2023/12/1214)<br>
-- [markdown测试](/blogs/1214ceshi)<br>
+- [在清华的演讲](/blogs/2023/11/TSHU)
+- [猫猫超市的狗狗](/blogs/2023/12/1214)
+- [markdown测试](/blogs/1214ceshi)
 
 
 
