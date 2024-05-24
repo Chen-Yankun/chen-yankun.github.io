@@ -22,7 +22,7 @@ title: 生物转化
 从ATCC菌株库中选取黑根霉菌株（Rhizopus stolonifer）。
 在适当的培养液中接种RS。
 在适当的温度（如28°C）下培养一定时间（3天），使黑根霉菌株充分生长。
-![Image 1](/notes/biotrans/RS1.jpg)
+![接种霉菌](/notes/biotrans/RS1.jpg)
 发酵与转化：
 将底物加入到培养瓶中。
 在适当的温度、pH值和氧气供应条件下进行发酵。
@@ -30,6 +30,7 @@ title: 生物转化
 ![Image 1](/notes/biotrans/RS2.jpg)
 ![Image 1](/notes/biotrans/RS3.jpg)
 ![Image 1](/notes/biotrans/RS4.jpg)
+markdown ![霉菌长大](/notes/biotrans/RS2.jpg) ![鉴别](/notes/biotrans/RS3.jpg) ![鉴别2](/notes/biotrans/RS4.jpg)
 产物提取与纯化：
 在发酵结束后，通过离心、过滤或萃取等方法将产物从发酵液中分离出来。
 使用色谱、结晶等纯化技术进一步提高产物的纯度和质量。
