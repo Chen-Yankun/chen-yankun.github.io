@@ -22,6 +22,8 @@ title: 网络收藏夹
 ### 娱乐
 [漫岛动漫](https://www.mddmx.com/){:target="_blank"}<br>
 [Google](https://www.google.com.hk/){:target="_blank"}<br>
+[测试反应速度](https://humanbenchmark.com/dashboard/){:target="_blank"}<br>
+
 
 
 <br>
