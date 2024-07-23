@@ -7,7 +7,12 @@ title: Publications
 
 <h2 id="dingbu">Journal Paper</h2>
 
-- <a href="	https://www.wjgnet.com/2220-3206/full/v14/i5/607.htm/" target="_blank">Exploring the transformative impact of traditional Chinese medicine on depression: Insights from animal models.</a><br>
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1043466624002023" target="_blank">The role of mesenchymal stem cells in the treatment and pathogenesis of psoriasis.</a><br>
+**Chen YK**,  Asma’a H. Mohamed et al.<br>
+*Cytokine.*<br>
+*2024 July 14. DOI: 10.1016/j.cyto.2024.156699*
+
+- <a href="https://www.wjgnet.com/2220-3206/full/v14/i5/607.htm/" target="_blank">Exploring the transformative impact of traditional Chinese medicine on depression: Insights from animal models.</a><br>
 Yang Y, **Chen YK**, Xie MZ.<br>
 *World Journal of Psychiatry.*<br>
 *2024 May 19. DOI: 10.5498/wjp.v14.i5.0000*
@@ -20,22 +25,22 @@ Yang Y, **Chen YK**, Xie MZ.<br>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37600709/" target="_blank">Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.</a><br>
 **Chen YK**, Liu TT, Teia FKF, Xie MZ<br>
 *Front Endocrinol (Lausanne)*<br>
-*2023 Aug 1;14:1218880. DOI: 10.3389/fendo.2023.1218880.*
+*2023 Aug 1. DOI: 10.3389/fendo.2023.1218880.*
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37446547/" target="_blank">In Silico Identification of Natural Product-Based Inhibitors Targeting IL-1β/IL-1R Protein-Protein Interface.</a><br>
 Liu TT, **Chen YK**, Adil M et al.<br>
 *Molecules.*<br>
-*2023 Jun 21;28(13):4885. DOI: 10.3390/molecules28134885.*
+*2023 Jun 21. DOI: 10.3390/molecules28134885.*
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37965722/" target="_blank">Hemagglutinin 3 and 8 can be the most efficient influenza subtypes for human host invasion; a comparative in silico approach.</a><br>
 Al-Shuhaib, Alam S, Khan SA, Al-Shuhaib, **Chen YK** et al.<br>
 *J Biomol Struct Dyn.*<br>
-*2023 Nov 15:1-19. DOI: 10.1080/07391102.2023.2280674.*<br>
+*2023 Nov 15. DOI: 10.1080/07391102.2023.2280674.*<br>
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/33035831/" target="_blank">A review on the efficacy and mechanism of action of Shenkang injection against chronic kidney disease.</a><br>
 Zou JJ, Zhou XT, **Chen YK** et al.<br>
 *Biomed Pharmacother.*<br>
-*2020 Dec;132:110833. DOI: 10.1016/j.biopha.2020.110833.*<br>
+*2020 Dec. DOI: 10.1016/j.biopha.2020.110833.*<br>
 
 ---
 
