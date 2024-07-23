@@ -54,6 +54,11 @@ Yang Y, **Chen YK**, Xie MZ.<br>
 *J Biomol Struct Dyn.*<br>
 *2023 Dec 21. DOI: 10.1080/07391102.2023.2294384*
 
+- <a href="https://pubmed.ncbi.nlm.nih.gov/37965722/" target="_blank">Hemagglutinin 3 and 8 can be the most efficient influenza subtypes for human host invasion; a comparative in silico approach.</a><br>
+Al-Shuhaib, Alam S, Khan SA, Al-Shuhaib, **Chen YK** et al.<br>
+*J Biomol Struct Dyn.*<br>
+*2023 Nov 15. DOI: 10.1080/07391102.2023.2280674.*<br>
+
 - <a href="https://pubmed.ncbi.nlm.nih.gov/37600709/" target="_blank">Exploring the underlying mechanisms of obesity and diabetes and the potential of Traditional Chinese Medicine: an overview of the literature.</a><br>
 **Chen YK**, Liu TT, Teia FKF, Xie MZ<br>
 *Front Endocrinol (Lausanne)*<br>
@@ -63,11 +68,6 @@ Yang Y, **Chen YK**, Xie MZ.<br>
 Liu TT, **Chen YK**, Adil M et al.<br>
 *Molecules.*<br>
 *2023 Jun 21. DOI: 10.3390/molecules28134885.*
-
-- <a href="https://pubmed.ncbi.nlm.nih.gov/37965722/" target="_blank">Hemagglutinin 3 and 8 can be the most efficient influenza subtypes for human host invasion; a comparative in silico approach.</a><br>
-Al-Shuhaib, Alam S, Khan SA, Al-Shuhaib, **Chen YK** et al.<br>
-*J Biomol Struct Dyn.*<br>
-*2023 Nov 15. DOI: 10.1080/07391102.2023.2280674.*<br>
 
 - <a href="https://pubmed.ncbi.nlm.nih.gov/33035831/" target="_blank">A review on the efficacy and mechanism of action of Shenkang injection against chronic kidney disease.</a><br>
 Zou JJ, Zhou XT, **Chen YK** et al.<br>
