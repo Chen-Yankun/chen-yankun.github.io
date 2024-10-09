@@ -7,6 +7,11 @@ title: Publications
 
 <h2 id="dingbu">Journal Paper</h2>
 
+- <a href="https://www.cell.com/heliyon/issue?pii=S2405-8440(23)X0030-9" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
+Tang QF, **Chen YK**, Qu HY et al.<br>
+*Heliyon.*<br>
+*2024 Aug 28. DOI: 10.1016/j.heliyon.2024.e36785*
+
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1043466624002023" target="_blank">The role of mesenchymal stem cells in the treatment and pathogenesis of psoriasis.</a><br>
 **Chen YK**,  Asma’a H. Mohamed et al.<br>
 *Cytokine.*<br>
