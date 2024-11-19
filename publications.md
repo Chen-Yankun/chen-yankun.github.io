@@ -7,7 +7,7 @@ title: Publications
 
 <h2 id="dingbu">Journal Paper</h2>
 
-- <a href="https://www.cell.com/heliyon/issue?pii=S2405-8440(23)X0030-9" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
+- <a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)12816-2" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
 Tang QF, **Chen YK**, Qu HY et al.<br>
 *Heliyon.*<br>
 *2024 Aug 28. DOI: 10.1016/j.heliyon.2024.e36785*
