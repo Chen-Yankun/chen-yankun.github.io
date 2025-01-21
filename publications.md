@@ -10,7 +10,7 @@ title: Publications
 - <a href="https://journals.sagepub.com/doi/full/10.1177/09731296241286281" target="_blank">Exploring Fagonia cretica and Berberis lycium as α-Amylase Inhibitors: Potential Therapeutic Strategies for Diabetes Mellitus Investigated Through In Vitro and In Silico Approaches.</a><br>
 **Chen YK**, Changan Jiang et al.<br>
 *Pharmacognosy Magazine.*<br>
-*2024 Aug 28. DOI: 10.1177/097312962412862*
+*2025 Jan 14. DOI: 10.1177/097312962412862*
 
 - <a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)12816-2" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
 Tang QF, **Chen YK**, Qu HY et al.<br>
