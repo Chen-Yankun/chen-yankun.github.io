@@ -10,21 +10,29 @@ title: Publications
 - <a href="https://journals.sagepub.com/doi/full/10.1177/09731296241286281" target="_blank">Exploring Fagonia cretica and Berberis lycium as α-Amylase Inhibitors: Potential Therapeutic Strategies for Diabetes Mellitus Investigated Through In Vitro and In Silico Approaches.</a><br>
 **Chen YK**, Noor Rahman, Changan Jiang et al.<br>
 *Pharmacognosy Magazine.*<br>
+WOS: 001395675500001<br>
+ISSN: 0973-1296<br>
 *2025 Jan 14. DOI: 10.1177/097312962412862*
 
 - <a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)12816-2" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
 Tang QF, **Chen YK**, Qu HY et al.<br>
 *Heliyon.*<br>
+WOS: 001311435400001<br>
+ISSN: 2405-8440<br>
 *2024 Aug 28. DOI: 10.1016/j.heliyon.2024.e36785*
 
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1043466624002023" target="_blank">The role of mesenchymal stem cells in the treatment and pathogenesis of psoriasis.</a><br>
 **Chen YK**,  Asma’a H. Mohamed et al.<br>
 *Cytokine.*<br>
+WOS: 001276170700001<br>
+ISSN: 1043-4666<br>
 *2024 July 14. DOI: 10.1016/j.cyto.2024.156699*
 
 - <a href="https://www.wjgnet.com/2220-3206/full/v14/i5/607.htm/" target="_blank">Exploring the transformative impact of traditional Chinese medicine on depression: Insights from animal models.</a><br>
 Yang Y, **Chen YK**, Xie MZ.<br>
 *World Journal of Psychiatry.*<br>
+WOS: 001233197800007<br>
+ISSN: 2220-3206<br>
 *2024 May 19. DOI: 10.5498/wjp.v14.i5.0000*
 
 - <a href="https://www.tandfonline.com/doi/full/10.1080/07391102.2023.2294384/" target="_blank">Identification of potential inhibitors targeting Ebola virus VP35 protein: a computational strategy.</a><br>
