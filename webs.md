@@ -28,3 +28,12 @@ title: 网络收藏夹
 
 
 <br>
+<!-- myfxbook.com forexHeatMapWidget - Start -->
+        <div>
+            <iframe src="https://widgets.myfxbook.com/widgets/heat-map.html?symbols=8,9,10,11,12,6,13,14,15,17,7,1,4,2,28,5,29,3,50,51&type=0" width="100%" height="100%" frameborder="0"></iframe>
+
+        </div>
+        <div style="font-size: 10px">
+            <a href="https://www.myfxbook.com" title="Myfxbook" class="myfxbookLink" target="_self" rel="noopener">Powered  by Myfxbook.com</a>
+        </div>
+        <!-- myfxbook.com forexHeatMapWidget - End -->
