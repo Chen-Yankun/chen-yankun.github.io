@@ -28,6 +28,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Jun 2018 - Aug 2020:** Hunan Engineering Technology Research Center for Medicinal and Functional Food (Research Assistant)
 <br>
 
+## Other Experience
+- [Volunteer work]()
+- [Conference speech at Tsinghua U](/blogs/2023/11/TSHU)
+
 ## Scientific research skills
 
 - Familiar with the extraction, separation, and purification methods of Chinese herbal medicines. 
@@ -38,6 +42,20 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Journal Papers
+
+- <a href="https://journals.sagepub.com/doi/full/10.1177/09731296241286281" target="_blank">Exploring Fagonia cretica and Berberis lycium as α-Amylase Inhibitors: Potential Therapeutic Strategies for Diabetes Mellitus Investigated Through In Vitro and In Silico Approaches.</a><br>
+**Chen YK**, Noor Rahman, Changan Jiang et al.<br>
+*Pharmacognosy Magazine.*<br>
+WOS: 001395675500001<br>
+ISSN: 0973-1296<br>
+*2025 Jan 14. DOI: 10.1177/097312962412862*
+
+- <a href="https://www.cell.com/heliyon/fulltext/S2405-8440(24)12816-2" target="_blank">Pulse signal may be a key bridge connecting cardiology and pulse diagnosis of TCM.</a><br>
+Tang QF, **Chen YK**, Qu HY et al.<br>
+*Heliyon.*<br>
+WOS: 001311435400001<br>
+ISSN: 2405-8440<br>
+*2024 Aug 28. DOI: 10.1016/j.heliyon.2024.e36785*
 
 
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S1043466624002023" target="_blank">The role of mesenchymal stem cells in the treatment and pathogenesis of psoriasis.</a><br>
@@ -86,22 +104,17 @@ Zou JJ, Zhou XT, **Chen YK** et al.<br>
 
 ## 中文期刊
 
+- 刘婷婷,**陈彦坤**,刘培,等. 润目逍遥散对干眼肝经郁热证模型小鼠角膜、泪腺组织miR-146a-5p与IRAK1/TRAF6/NF-κB信号通路的影响[J]. 中医杂志,2024,65(18):1915-1924. DOI:10.13288/j.11-2166/r.2024.18.012. 
 - 马一帆,宁世鸿,**陈彦坤**,等. 《针灸大成》中承山穴临床应用浅析[J]. 山西中医药大学学报,2022,23(3):233-235,240.
 - 饶智,**陈彦坤**,刘斌,等. “药食同源”植物酵素研究进展[J]. 食品与发酵工业,2020,46(9):290-294.
 - 陈宇奇,**陈彦坤**,石天爱,等. 80例不同肝功能指标体检人群脉象频域参数差异研究[J]. 亚太传统医药,2021,17(1):134-138.
 - 喻心傲,瞿昊宇,**陈彦坤**,等. 湖南地区超重人群高血压脉象频域特征研究[J]. 湖南中医药大学学报,2020,40(6):717-721.
 - **陈彦坤**,刘琦,瞿浩宇,等. 气虚质健康人群寸口脉脉诊信息特征研究[J]. 湖南中医药大学学报,2018,38(3):289-291.
-
 - 饶智,陈光宇,何群，**陈彦坤**,等. 基于电子舌技术与人工口尝评价相结合的羌活胜湿汤矫味技术研究[J]. 中药材,2021,44(3):658-663.
-
 - 陈宇奇,**陈彦坤**,吴嘉萍,等. 64例不同肾功能指标的体检人群脉象频域参数的差异研究[J]. 时珍国医国药,2021,32(2):478-480.
-
 - **陈彦坤**,刘琦,谢梦洲. 脉诊仪的研发和脉象图分析方法的研究进展[J]. 湖南中医杂志,2018,34(12):172-174.
-
 - 陈宇奇,**陈彦坤**,谢梦洲. 基于脉诊仪研究肥胖、超重人群与正常人群脉象频域特征的差异性[J]. 中国中医药现代远程教育,2023,21(19):29-32.
-
 - 吴钰,饶智,**陈彦坤**,等. 基于仿生技术对不同产地当归阿魏酸含量与滋味的关联性研究[J]. 中国食物与营养,2022,28(2):37-43.
-
 - 谢梦洲,**陈彦坤**,刘琦,等. 正常人群气虚质寸口脉脉图参数特征研究[C]. 日中伝统医药国际学术交流研讨会论文集. 2018:49-53.
 
 
