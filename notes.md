@@ -32,11 +32,15 @@ title: Notes
 - [香辛料](/blogs/2024/01/0115)<br>
 
 ### 2023
-- [在清华的演讲](/blogs/2023/11/TSHU)
-- [猫猫超市的狗狗](/blogs/2023/12/1214)
-- [markdown测试](/blogs/1214ceshi)
+- [在清华的演讲](/blogs/2023/11/TSHU/)
+- [猫猫超市的狗狗](/blogs/2023/12/1214/)
+- [markdown测试](/blogs/1214ceshi/)
 
+### 2022
+- [红十字会](/blogs/2022/redcross/)
 
+### 2019
+- [柬埔寨义工](/blogs/2019/2019cambodia/)
 
 <br>
 [回到顶部](#dingbu)
