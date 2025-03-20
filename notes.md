@@ -33,11 +33,10 @@ title: Notes
 
 ### 2023
 - [在清华的演讲](/blogs/2023/11/TSHU/)
-- [猫猫超市的狗狗](/blogs/2023/12/1214/)
 - [markdown测试](/blogs/1214ceshi/)
 
 ### 2022
-- [红十字会](/blogs/2022/redcross/)
+- [红十字会](/blogs/2022/2022redcross/)
 
 ### 2019
 - [柬埔寨义工](/blogs/2019/2019cambodia/)
