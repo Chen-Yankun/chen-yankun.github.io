@@ -29,9 +29,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Other Experience
-- [Volunteer work（2019）]()
-- [Red cross（2022）]()
-- [Conference speech at Tsinghua U（2023）](/blogs/2023/11/TSHU)
+- [Volunteer work（2019）](/blogs/2019/2019cambodia/)
+- [Red cross（2022）](/blogs/2022/2022redcross/)
+- [Conference speech at Tsinghua U（2023）](/blogs/2023/11/TSHU/)
 
 ## Scientific research skills
 
