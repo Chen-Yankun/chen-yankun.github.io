@@ -29,14 +29,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 
 ## Other Experience
-- [Volunteer work（2019）](/blogs/2019/2019cambodia/)
-- [Red cross（2022）](/blogs/2022/2022redcross/)
-- [Conference speech at Tsinghua U（2023）](/blogs/2023/11/TSHU/)
+- [Volunteering in Cambodia（2019）](/blogs/2019/2019cambodia/)
+- [Red cross training（2022）](/blogs/2022/2022redcross/)
+- [**Conference speech** at Tsinghua U（2023）](/blogs/2023/11/TSHU/)
 
 ## Scientific research skills
 
 - Familiar with the extraction, separation, and purification methods of Chinese herbal medicines. 
-- Skilled in using analytical instruments such as HPLC/UPLC and triple quadrupole mass spectrometry.
+- Skilled in using analytical instruments such as **HPLC/UPLC**, **triple quadrupole mass spectrometry** and **Q-ToF MS**.
 - Skilled in medical experimental skills, proficient in cell experiments, animal experiments, PCR, and Wb operation methods.
 - Familiar with R programming language, chemoinformatics, and possess proficiency in techniques such as molecular docking and molecular dynamics simulations.
 - Familiar with the production process of traditional Chinese medicinal diet products, including: recipe selection ideas, Chinese medicine compatibility, and experimental design.
