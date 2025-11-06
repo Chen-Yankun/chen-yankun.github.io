@@ -10,6 +10,10 @@ title: 网络收藏夹
 ### 看看
 [知乎](https://www.zhihu.com){:target="_blank"}<br>
 [哔哩哔哩](https://www.bilibili.com){:target="_blank"}<br>
+[Science](https://www.science.org/){:target="_blank"}<br>
+[Nature](https://www.nature.com/){:target="_blank"}<br>
+[Nature comm](https://www.nature.com/ncomms/){:target="_blank"}<br>
+
 ### 文献
 [中国知网](https://www.cnki.net){:target="_blank"}<br>
 [万方数据库](https://www.wanfangdata.com.cn){:target="_blank"}<br>
