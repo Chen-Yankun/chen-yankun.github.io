@@ -32,7 +32,8 @@ title: 网络收藏夹
 [Google](https://www.google.com.hk/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;
 [测试反应速度](https://humanbenchmark.com/dashboard/){:target="_blank"}<br>
 [X](https://twitter.com/home/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[YouTube](https://www.youtube.com/){:target="_blank"}
+[YouTube](https://www.youtube.com/){:target="_blank"}<br>
+[WhatsApp](https://web.whatsapp.com/){:target="_blank"}
 
 
 
