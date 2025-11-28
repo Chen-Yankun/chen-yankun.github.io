@@ -49,6 +49,10 @@ title: Markdown用法
 2. 其中参数 size 为字体大小
 3. 其中参数 face 为字体类型
 ```
+<span style="color:red">红色文字</span>
+<span style="color:#00ff00">绿色文字（HEX格式）</span>
+<span style="color:rgb(0,0,255)">蓝色文字（RGB格式）</span>
+<br>
 
 ### 图片
 
