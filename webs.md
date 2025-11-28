@@ -33,7 +33,8 @@ title: 网络收藏夹
 [测试反应速度](https://humanbenchmark.com/dashboard/){:target="_blank"}<br>
 [X](https://twitter.com/home/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [YouTube](https://www.youtube.com/){:target="_blank"}<br>
-[WhatsApp](https://web.whatsapp.com/){:target="_blank"}
+[WhatsApp](https://web.whatsapp.com/){:target="_blank"}<br>
+<span style="color:rgb(0,0,255)">蓝色文字（RGB格式）</span>
 
 
 
