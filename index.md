@@ -7,7 +7,7 @@ layout: page
 
 Here is **Yan-kun Chen (陈彦坤)**.
 
-I specialize in Traditional Chinese Medicine (TCM), with a focus on <span style="color:rgb(205,155,29)">new drug development, CADD, traditional herbal medicine research, and natural products</span>. My passion lies in exploring the rich world of Chinese herbal remedies and contributing to the development of innovative medications.  
+I specialize in Traditional Chinese Medicine (TCM), with a focus on <span style="color:rgb(205,149,12)">new drug development, CADD, traditional herbal medicine research, and natural products</span>. My passion lies in exploring the rich world of Chinese herbal remedies and contributing to the development of innovative medications.  
 
 Outside of my professional pursuits, I have a keen interest in AI art, finding joy in the intersection of technology and creativity. When I'm not immersed in the world of medicine and research, you can often find me capturing moments through photography or indulging my wanderlust with travel adventures. I believe in the power of combining ancient wisdom with modern knowledge to create a healthier and more vibrant world.  
 
