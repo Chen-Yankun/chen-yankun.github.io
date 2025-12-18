@@ -34,7 +34,7 @@ title: 网络收藏夹
 [X](https://twitter.com/home/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [YouTube](https://www.youtube.com/){:target="_blank"}<br>
 [WhatsApp](https://web.whatsapp.com/){:target="_blank"}<br>
-<span style="color:rgb(0,0,255)">蓝色文字（RGB格式）</span>
+<span style="color:rgb(205,155,29)">goldnod文字（RGB格式）</span>
 
 
 
