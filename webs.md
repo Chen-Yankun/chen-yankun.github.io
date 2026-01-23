@@ -22,8 +22,8 @@ title: 网络收藏夹
 [z-library](https://zh.z-library.sk/){:target="_blank"}<br>
 [Google翻譯](https://translate.google.com.hk){:target="_blank"}<br>
 ### AI
+[ChatGPT](https://chat.openai.com/){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;[Gemini](https://gemini.google.com/){:target="_blank"}<br>
 [Deepseek](https://chat.deepseek.com/){:target="_blank"}<br>
-[Chatgpt](https://chat.openai.com/c/81332deb-1dba-4d9a-a40b-0466369aa90d){:target="_blank"}<br>
 [文心一言](https://yiyan.baidu.com/){:target="_blank"}<br>
 
 ### 娱乐
