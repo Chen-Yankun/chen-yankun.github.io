@@ -32,7 +32,7 @@ title: 网络收藏夹
 [影视](https://www.6umkq9b.com/){:target="_blank"}<br>
 [Google](https://www.google.com.hk/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;
 [测试反应速度](https://humanbenchmark.com/dashboard/){:target="_blank"}<br>
-[X](https://twitter.com/home/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[X](https://x.com/home/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [YouTube](https://www.youtube.com/){:target="_blank"}<br>
 [WhatsApp](https://web.whatsapp.com/){:target="_blank"}<br>
 <span style="color:rgb(205,149,12)">goldrod文字（RGB格式）</span>
