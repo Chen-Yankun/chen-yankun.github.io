@@ -11,7 +11,7 @@ title: 网络收藏夹
 [知乎](https://www.zhihu.com){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [哔哩哔哩](https://www.bilibili.com){:target="_blank"}<br>
 [Science](https://www.science.org/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Nature](https://www.nature.com/){:target="_blank"}<br>
+[Nature](https://www.nature.com/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Nature comm](https://www.nature.com/ncomms/){:target="_blank"}<br>
 
 ### 文献
@@ -19,10 +19,11 @@ title: 网络收藏夹
 [万方数据库](https://www.wanfangdata.com.cn){:target="_blank"}<br>
 [PubMed](https://pubmed.ncbi.nlm.nih.gov){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [解忧图书馆](http://www.jieyoutsg.com){:target="_blank"}<br>
-[z-library](https://zh.z-library.sk/){:target="_blank"}<br>
+[z-library](https://zh.z-library.sk/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Google翻譯](https://translate.google.com.hk){:target="_blank"}<br>
 ### AI
-[ChatGPT](https://chat.openai.com/){:target="_blank"}<br>&nbsp;&nbsp;&nbsp;&nbsp;[Gemini](https://gemini.google.com/){:target="_blank"}<br>
+[ChatGPT](https://chat.openai.com/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Gemini](https://gemini.google.com/){:target="_blank"}<br>
 [Deepseek](https://chat.deepseek.com/){:target="_blank"}<br>
 [文心一言](https://yiyan.baidu.com/){:target="_blank"}<br>
 
