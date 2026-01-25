@@ -5,6 +5,7 @@ title: 清华大学会议演讲
 
 ---
 ## Speach on APA 2023 host by Tsinghua University
+<p style="text-indent: 2em;">
 &nbsp;&nbsp;&nbsp;&nbsp;清华大学举办了一场专题研讨会，邀请了来自湖南中医药大学、珠海中科先进技术研究院的陈彦坤博士，就*Medicinal and Food Homologous: A New Perspective on Extracting Tea Beverages from Natural Plants in Obesity Regulation*这一主题进行了深入交流和探讨。
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;在会议上，陈博士代表湖南中医药大学，分享了关于从天然植物中提取茶饮料在肥胖调节方面的最新研究成果和独特见解。他指出，随着现代生活方式的改变，肥胖问题日益严重，而天然植物中的活性成分因其独特的药用和食用同源性，为肥胖的预防和调节提供了新的思路。
@@ -17,4 +18,5 @@ title: 清华大学会议演讲
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;清华大学作为国内顶级高校，一直致力于推动跨学科研究和学术交流。此次邀请陈博士教授来校演讲，不仅体现了清华大学对肥胖问题研究的重视，也展示了清华大学在推动学术界与产业界合作方面的积极态度。
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;随着研究的深入和技术的进步，相信未来会有更多基于天然植物的茶饮料产品问世，为肥胖问题提供更为有效的解决方案。
+<br>随着研究的深入和技术的进步，相信未来会有更多基于天然植物的茶饮料产品问世，为肥胖问题提供更为有效的解决方案。
+</p>
