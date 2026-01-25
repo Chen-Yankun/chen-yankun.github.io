@@ -29,7 +29,7 @@ title: Notes
 - [如何建立个人网站](/blogs/web/)
 
 ### 2025
-- [香辛料](/blogs/2025/1230)<br>
+- [Nano Banana](/blogs/2025/1230)<br>
 
 ### 2024
 - [香辛料](/blogs/2024/01/0115)<br>
