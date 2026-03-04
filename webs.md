@@ -37,7 +37,13 @@ title: 网络收藏夹
 [YouTube](https://www.youtube.com/){:target="_blank"}<br>
 [WhatsApp](https://web.whatsapp.com/){:target="_blank"}<br>
 <span style="color:rgb(205,149,12)">goldrod文字（RGB格式）</span>
-
+<div class="canvas-app-container">
+  <iframe 
+    src="/Apps/Global_News-CN2.html" 
+    style="width: 100%; height: 500px; border: 1px solid #ddd; border-radius: 8px;"
+    frameborder="0">
+  </iframe>
+</div>
 
 
 <br>
