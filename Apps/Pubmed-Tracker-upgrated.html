@@ -1,0 +1,258 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PubMed Researcher - Dr. Chen Yan-kun</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 3px; }
+        .abstract-scrollbar::-webkit-scrollbar { width: 4px; }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+    </style>
+</head>
+<body class="bg-slate-50">
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useCallback } = React;
+
+        // --- SVG 图标 ---
+        const IconSearch = () => <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>;
+        const IconTrash = () => <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg>;
+        const IconPlus = () => <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>;
+        const IconRefresh = ({ className }) => <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>;
+        const IconExternalLink = () => <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>;
+        const IconBook = () => <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>;
+        const IconTranslate = () => <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M5 8l6 6"></path><path d="M4 14l6-6 2-3"></path><path d="M2 5h12"></path><path d="M7 2h1"></path><path d="M22 22l-5-10-5 10"></path><path d="M14 18h6"></path></svg>;
+
+        function App() {
+            // 状态管理
+            const [keywords, setKeywords] = useState(() => {
+                const saved = localStorage.getItem('pubmed_keywords');
+                return saved ? JSON.parse(saved) : ["MASLD", "Probiotics", "Traditional Chinese Medicine"];
+            });
+            const [activeKeyword, setActiveKeyword] = useState(keywords[0] || "");
+            const [newKeyword, setNewKeyword] = useState("");
+            const [articles, setArticles] = useState([]);
+            const [loading, setLoading] = useState(false);
+            const [error, setError] = useState(null);
+            const [translations, setTranslations] = useState({});
+
+            useEffect(() => {
+                localStorage.setItem('pubmed_keywords', JSON.stringify(keywords));
+            }, [keywords]);
+
+            // PubMed 数据抓取逻辑 (包含摘要解析)
+            const fetchArticles = useCallback(async (keyword) => {
+                if (!keyword) return;
+                setLoading(true);
+                setError(null);
+                setArticles([]);
+                setTranslations({});
+
+                try {
+                    // 1. 搜索 PMID
+                    const searchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=${encodeURIComponent(keyword)}&retmode=json&retmax=15&sort=date`;
+                    const searchRes = await fetch(searchUrl);
+                    const searchData = await searchRes.json();
+                    const pmids = searchData.esearchresult?.idlist || [];
+                    
+                    if (pmids.length === 0) { setLoading(false); return; }
+
+                    // 2. 获取基础详情 (Summary)
+                    const summaryUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id=${pmids.join(',')}&retmode=json`;
+                    const summaryRes = await fetch(summaryUrl);
+                    const summaryData = await summaryRes.json();
+
+                    // 3. 抓取 XML 并解析摘要
+                    const efetchUrl = `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${pmids.join(',')}&retmode=xml`;
+                    const fetchRes = await fetch(efetchUrl);
+                    const xmlText = await fetchRes.text();
+                    const parser = new DOMParser();
+                    const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+                    const articlesXml = xmlDoc.getElementsByTagName("PubmedArticle");
+                    
+                    const abstractMap = {};
+                    for (let i = 0; i < articlesXml.length; i++) {
+                        const articleNode = articlesXml[i];
+                        const pmid = articleNode.getElementsByTagName("PMID")[0]?.textContent;
+                        if (pmid) {
+                            const abstractNodes = articleNode.getElementsByTagName("AbstractText");
+                            let abstract = "";
+                            for (let j = 0; j < abstractNodes.length; j++) {
+                                const label = abstractNodes[j].getAttribute("Label");
+                                if (label) abstract += `<b>${label}:</b> `;
+                                abstract += abstractNodes[j].textContent + "<br/>";
+                            }
+                            abstractMap[pmid] = abstract.trim() || "No abstract available.";
+                        }
+                    }
+
+                    const articleList = pmids.map(id => {
+                        const info = summaryData.result[id];
+                        if (!info) return null;
+                        return {
+                            id,
+                            title: info.title || "No title available",
+                            authors: info.authors ? info.authors.map(a => a.name).join(', ') : "Unknown",
+                            abstract: abstractMap[id] || "No abstract available.",
+                            journal: info.fulljournalname || info.source,
+                            pubDate: info.pubdate,
+                            doi: info.articleids?.find(aid => aid.idtype === 'doi')?.value || null,
+                            link: `https://pubmed.ncbi.nlm.nih.gov/${id}/`
+                        };
+                    }).filter(Boolean);
+
+                    setArticles(articleList);
+                } catch (err) { setError("连接 PubMed 数据库失败，请检查网络。"); }
+                setLoading(false);
+            }, []);
+
+            useEffect(() => { if (activeKeyword) fetchArticles(activeKeyword); }, [activeKeyword, fetchArticles]);
+
+            // AI 翻译处理 (此处建议将 API Key 替换为你的实际 Key，或使用中转服务)
+            const handleTranslate = async (id, title, abstract) => {
+                if (translations[id]) return;
+                setTranslations(prev => ({ ...prev, [id]: { loading: true, text: "" } }));
+
+                const apiKey = "YOUR_GEMINI_API_KEY"; // 建议在生产环境通过安全方式调用
+                const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${apiKey}`;
+                
+                const prompt = `请作为专业医学翻译，将以下文献的标题和摘要翻译为流畅的中文：\n\n标题: ${title}\n\n摘要: ${abstract}`;
+
+                try {
+                    const res = await fetch(url, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+                    });
+                    const data = await res.json();
+                    const translated = data.candidates?.[0]?.content?.parts?.[0]?.text || "翻译暂不可用";
+                    setTranslations(prev => ({ ...prev, [id]: { loading: false, text: translated.replace(/\n/g, '<br/>') } }));
+                } catch (err) {
+                    setTranslations(prev => ({ ...prev, [id]: { loading: false, text: "（翻译线路繁忙，请稍后再试。提示：请确保已在代码中填入有效的 API Key）" } }));
+                }
+            };
+
+            return (
+                <div className="flex h-screen overflow-hidden bg-slate-50 text-slate-800">
+                    {/* 左侧边栏 */}
+                    <aside className="w-64 bg-white border-r border-slate-200 flex flex-col hidden md:flex">
+                        <div className="p-4 border-b flex items-center gap-2 text-blue-700">
+                            <IconBook />
+                            <h1 className="font-bold text-lg tracking-tight">PubMed Tracker</h1>
+                        </div>
+                        <div className="p-4 flex-1 overflow-y-auto">
+                            <h2 className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-4">Focus Keywords</h2>
+                            <ul className="space-y-1 mb-6">
+                                {keywords.map(kw => (
+                                    <li key={kw} className="group flex items-center justify-between relative">
+                                        <button onClick={() => setActiveKeyword(kw)} className={`flex-1 text-left px-3 py-2 text-sm rounded-lg transition ${activeKeyword === kw ? 'bg-blue-50 text-blue-700 font-bold' : 'text-slate-600 hover:bg-slate-50'}`}>
+                                            <span className="truncate block w-40">{kw}</span>
+                                        </button>
+                                        <button onClick={() => setKeywords(keywords.filter(k => k !== kw))} className="opacity-0 group-hover:opacity-100 p-1 text-slate-300 hover:text-red-500 transition"><IconTrash /></button>
+                                    </li>
+                                ))}
+                            </ul>
+                            <form onSubmit={(e) => { e.preventDefault(); if(newKeyword.trim()) { setKeywords([...keywords, newKeyword]); setNewKeyword(""); } }}>
+                                <div className="flex bg-slate-100 rounded-lg border border-slate-200 p-1">
+                                    <input type="text" value={newKeyword} onChange={(e) => setNewKeyword(e.target.value)} placeholder="New Topic..." className="w-full bg-transparent text-xs px-2 py-1 outline-none" />
+                                    <button type="submit" className="text-blue-500 p-1"><IconPlus /></button>
+                                </div>
+                            </form>
+                        </div>
+                        {/* 个人品牌标识 */}
+                        <div className="p-4 border-t border-slate-100 bg-slate-50/50">
+                            <div className="flex items-center gap-3">
+                                <div className="w-8 h-8 rounded-full bg-blue-600 flex items-center justify-center text-white text-[10px] font-bold">CYK</div>
+                                <div>
+                                    <p className="text-[11px] font-bold text-slate-700">Dr. Chen Yan-kun</p>
+                                    <p className="text-[9px] text-slate-400">Researcher in TCM</p>
+                                </div>
+                            </div>
+                        </div>
+                    </aside>
+
+                    {/* 主内容区 */}
+                    <main className="flex-1 flex flex-col h-full overflow-hidden">
+                        <header className="bg-white/80 backdrop-blur-md border-b px-6 py-4 flex items-center justify-between z-10">
+                            <div className="flex items-center gap-3">
+                                <div className="p-2 bg-blue-100 text-blue-600 rounded-lg"><IconSearch /></div>
+                                <h2 className="text-lg font-bold text-slate-800 tracking-tight">{activeKeyword || "Search Dashboard"}</h2>
+                            </div>
+                            <div className="text-[10px] font-mono text-slate-400 hidden sm:block">SYSTEM v2.9 | DEV: CHEN YAN-KUN</div>
+                        </header>
+
+                        <div className="flex-1 overflow-y-auto p-4 md:p-8">
+                            <div className="max-w-4xl mx-auto space-y-6 pb-20">
+                                {loading && (
+                                    <div className="flex flex-col items-center py-20 text-slate-400">
+                                        <IconRefresh className="animate-spin w-8 h-8 mb-4 text-blue-500" />
+                                        <p className="text-sm">Fetching and parsing PubMed records...</p>
+                                    </div>
+                                )}
+
+                                {articles.map(article => (
+                                    <article key={article.id} className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm hover:shadow-md transition group">
+                                        <div className="flex justify-between items-start gap-4 mb-3">
+                                            <h3 className="text-lg font-bold text-slate-900 leading-snug">
+                                                <a href={article.link} target="_blank" className="hover:text-blue-600 transition" dangerouslySetInnerHTML={{ __html: article.title }}></a>
+                                            </h3>
+                                            <div className="flex gap-2">
+                                                <button onClick={() => handleTranslate(article.id, article.title, article.abstract)} className="flex items-center gap-1 text-[10px] font-bold px-3 py-1 bg-indigo-50 text-indigo-600 rounded-full hover:bg-indigo-100 transition">
+                                                    {translations[article.id]?.loading ? "Translating..." : "AI Translate"}
+                                                </button>
+                                                <a href={article.link} target="_blank" className="p-1.5 bg-slate-50 rounded-full hover:bg-blue-50 text-slate-400 hover:text-blue-600"><IconExternalLink /></a>
+                                            </div>
+                                        </div>
+                                        
+                                        <p className="text-xs text-slate-500 mb-4 italic leading-relaxed">{article.authors}</p>
+
+                                        {/* 摘要显示 */}
+                                        <div className="bg-slate-50 rounded-xl p-4 text-[13px] text-slate-700 leading-relaxed mb-4 border border-slate-100">
+                                            <div className="flex items-center gap-2 mb-2">
+                                                <div className="w-1 h-3 bg-blue-400 rounded-full"></div>
+                                                <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Abstract</span>
+                                            </div>
+                                            <div className="max-h-40 overflow-y-auto pr-2 abstract-scrollbar" dangerouslySetInnerHTML={{ __html: article.abstract }}></div>
+                                        </div>
+
+                                        {/* 翻译显示 */}
+                                        {translations[article.id] && (
+                                            <div className="bg-indigo-50/50 rounded-xl p-4 text-[13px] text-slate-800 leading-relaxed border border-indigo-100 animate-in fade-in slide-in-from-top-2">
+                                                <div className="text-[10px] font-bold text-indigo-400 mb-2 uppercase tracking-widest">Chinese Translation</div>
+                                                <div dangerouslySetInnerHTML={{ __html: translations[article.id].text }}></div>
+                                            </div>
+                                        )}
+
+                                        <div className="flex flex-wrap gap-3 mt-4 text-[10px] font-bold">
+                                            <span className="text-emerald-700 bg-emerald-50 px-2 py-1 rounded-md">{article.journal}</span>
+                                            <span className="text-slate-500 bg-slate-100 px-2 py-1 rounded-md">{article.pubDate}</span>
+                                            <span className="text-slate-400 px-2 py-1 border rounded-md">PMID: {article.id}</span>
+                                        </div>
+                                    </article>
+                                ))}
+                            </div>
+                        </div>
+                        {/* 移动端页脚 */}
+                        <div className="md:hidden p-3 border-t bg-white text-center text-[10px] text-slate-400">
+                            PubMed Research Dashboard by Chen Yan-kun
+                        </div>
+                    </main>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
