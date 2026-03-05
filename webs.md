@@ -40,7 +40,7 @@ title: 网络收藏夹
 <div class="canvas-app-container">
   <iframe 
     src="/Apps/Pubmed-Tracker-upgrated.html" 
-    style="width: 100%; height: 360px; border: 1px solid #ddd; border-radius: 8px;"
+    style="width: 100%; height: 900px; border: 1px solid #ddd; border-radius: 8px;"
     frameborder="0">
   </iframe>
 </div>
