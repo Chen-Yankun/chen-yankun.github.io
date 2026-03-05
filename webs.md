@@ -39,7 +39,7 @@ title: 网络收藏夹
 <span style="color:rgb(205,149,12)">goldrod文字（RGB格式）</span>
 <div class="canvas-app-container">
   <iframe 
-    src="/Apps/Global_News-CN2.html" 
+    src="/Apps/Pubmed-Tracker-upgrated.html" 
     style="width: 100%; height: 360px; border: 1px solid #ddd; border-radius: 8px;"
     frameborder="0">
   </iframe>
