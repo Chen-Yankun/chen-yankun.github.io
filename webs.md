@@ -8,7 +8,8 @@ title: 网络收藏夹
 ---
 
 ### 看看
-[Global News](https://chen-yankun.github.io/Global-News/){:target="_blank"}<br>
+[Global War News](https://chen-yankun.github.io/Global-News/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Pubmed Tracker](https://chen-yankun.github.io/Pubmed-Tracker-upgrated/){:target="_blank"}<br>
 [知乎](https://www.zhihu.com){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [哔哩哔哩](https://www.bilibili.com){:target="_blank"}<br>
 [Science](https://www.science.org/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
