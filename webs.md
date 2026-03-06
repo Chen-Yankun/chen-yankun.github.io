@@ -27,7 +27,6 @@ title: 网络收藏夹
 [ChatGPT](https://chat.openai.com/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Gemini](https://gemini.google.com/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [NotebookLM](https://notebooklm.google.com/){:target="_blank"}<br>
-
 [Deepseek](https://chat.deepseek.com/){:target="_blank"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [文心一言](https://yiyan.baidu.com/){:target="_blank"}<br>
 
